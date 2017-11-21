@@ -1741,7 +1741,7 @@
   },
   {
     "h": 106,
-    "jibo": "曾",
+    "jibo": "曽",
     "poemIndex": 5,
     "resourceId": "doors:176700497",
     "text": "そ",
@@ -1871,7 +1871,7 @@
   },
   {
     "h": 113,
-    "jibo": "曾",
+    "jibo": "曽",
     "poemIndex": 5,
     "resourceId": "doors:176700497",
     "text": "そ",
@@ -2201,7 +2201,7 @@
   },
   {
     "h": 130,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 6,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -2231,7 +2231,7 @@
   },
   {
     "h": 114,
-    "jibo": "曾",
+    "jibo": "曽",
     "poemIndex": 6,
     "resourceId": "doors:176700497",
     "text": "そ",
@@ -2321,7 +2321,7 @@
   },
   {
     "h": 107,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 6,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -2351,7 +2351,7 @@
   },
   {
     "h": 141,
-    "jibo": "曾",
+    "jibo": "曽",
     "poemIndex": 6,
     "resourceId": "doors:176700497",
     "text": "そ",
@@ -2541,7 +2541,7 @@
   },
   {
     "h": 98,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 7,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -2794,7 +2794,7 @@
     "jibo": "出",
     "poemIndex": 7,
     "resourceId": "doors:176700497",
-    "text": "いで",
+    "text": "いて",
     "w": 91,
     "x": 1705,
     "y": 925
@@ -3001,7 +3001,7 @@
   },
   {
     "h": 114,
-    "jibo": "曾",
+    "jibo": "曽",
     "poemIndex": 8,
     "resourceId": "doors:176700497",
     "text": "そ",
@@ -3034,7 +3034,7 @@
     "jibo": "世",
     "poemIndex": 8,
     "resourceId": "doors:176700497",
-    "text": "世",
+    "text": "よ",
     "w": 136,
     "x": 953,
     "y": 337
@@ -3624,7 +3624,7 @@
     "jibo": "身",
     "poemIndex": 9,
     "resourceId": "doors:176700497",
-    "text": "身",
+    "text": "み",
     "w": 98,
     "x": 1004,
     "y": 488
@@ -3840,6 +3840,16 @@
     "y": 386
   },
   {
+    "h": 73,
+    "jibo": "部",
+    "poemIndex": 10,
+    "resourceId": "doors:176700497",
+    "text": "へ",
+    "w": 119,
+    "x": 1667,
+    "y": 474
+  },
+  {
     "h": 69,
     "jibo": "留",
     "poemIndex": 10,
@@ -3881,7 +3891,7 @@
   },
   {
     "h": 107,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 10,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -4031,7 +4041,7 @@
   },
   {
     "h": 139,
-    "jibo": "畿",
+    "jibo": "幾",
     "poemIndex": 10,
     "resourceId": "doors:176700497",
     "text": "き",
@@ -4160,14 +4170,34 @@
     "y": 457
   },
   {
-    "h": 73,
-    "jibo": "部",
-    "poemIndex": 10,
+    "h": 166,
+    "jibo": "参",
+    "poemIndex": 11,
     "resourceId": "doors:176700497",
-    "text": "へ",
-    "w": 119,
-    "x": 1667,
-    "y": 474
+    "text": "参",
+    "w": 123,
+    "x": 2072,
+    "y": 396
+  },
+  {
+    "h": 139,
+    "jibo": "議",
+    "poemIndex": 11,
+    "resourceId": "doors:176700497",
+    "text": "議",
+    "w": 123,
+    "x": 2067,
+    "y": 565
+  },
+  {
+    "h": 191,
+    "jibo": "篁",
+    "poemIndex": 11,
+    "resourceId": "doors:176700497",
+    "text": "篁",
+    "w": 108,
+    "x": 2078,
+    "y": 709
   },
   {
     "h": 124,
@@ -4570,36 +4600,6 @@
     "y": 585
   },
   {
-    "h": 166,
-    "jibo": "参",
-    "poemIndex": 11,
-    "resourceId": "doors:176700497",
-    "text": "参",
-    "w": 123,
-    "x": 2072,
-    "y": 396
-  },
-  {
-    "h": 139,
-    "jibo": "議",
-    "poemIndex": 11,
-    "resourceId": "doors:176700497",
-    "text": "議",
-    "w": 123,
-    "x": 2067,
-    "y": 565
-  },
-  {
-    "h": 191,
-    "jibo": "篁",
-    "poemIndex": 11,
-    "resourceId": "doors:176700497",
-    "text": "篁",
-    "w": 108,
-    "x": 2078,
-    "y": 709
-  },
-  {
     "h": 121,
     "jibo": "僧",
     "poemIndex": 12,
@@ -4804,7 +4804,7 @@
     "jibo": "遠",
     "poemIndex": 12,
     "resourceId": "doors:176700497",
-    "text": "お",
+    "text": "を",
     "w": 101,
     "x": 1937,
     "y": 854
@@ -4911,7 +4911,7 @@
   },
   {
     "h": 90,
-    "jibo": "〱",
+    "jibo": "ゝ",
     "poemIndex": 12,
     "resourceId": "doors:176700497",
     "text": "と",
@@ -5041,7 +5041,7 @@
   },
   {
     "h": 78,
-    "jibo": "〱",
+    "jibo": "ゝ",
     "poemIndex": 12,
     "resourceId": "doors:176700497",
     "text": "と",
@@ -5194,7 +5194,7 @@
     "jibo": "遠",
     "poemIndex": 13,
     "resourceId": "doors:176700497",
-    "text": "お",
+    "text": "を",
     "w": 106,
     "x": 1690,
     "y": 389
@@ -5271,7 +5271,7 @@
   },
   {
     "h": 86,
-    "jibo": "曾",
+    "jibo": "曽",
     "poemIndex": 13,
     "resourceId": "doors:176700497",
     "text": "そ",
@@ -5401,7 +5401,7 @@
   },
   {
     "h": 125,
-    "jibo": "曾",
+    "jibo": "曽",
     "poemIndex": 13,
     "resourceId": "doors:176700497",
     "text": "そ",
@@ -5451,10 +5451,10 @@
   },
   {
     "h": 143,
-    "jibo": "淵",
+    "jibo": "渕",
     "poemIndex": 13,
     "resourceId": "doors:176700497",
-    "text": "淵",
+    "text": "渕",
     "w": 131,
     "x": 734,
     "y": 360
@@ -5711,6 +5711,16 @@
   },
   {
     "h": 89,
+    "jibo": "部",
+    "poemIndex": 14,
+    "resourceId": "doors:176700497",
+    "text": "へ",
+    "w": 126,
+    "x": 1565,
+    "y": 643
+  },
+  {
+    "h": 89,
     "jibo": "尓",
     "poemIndex": 14,
     "resourceId": "doors:176700497",
@@ -5741,7 +5751,7 @@
   },
   {
     "h": 121,
-    "jibo": "連",
+    "jibo": "礼",
     "poemIndex": 14,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -5751,7 +5761,7 @@
   },
   {
     "h": 84,
-    "jibo": "曾",
+    "jibo": "曽",
     "poemIndex": 14,
     "resourceId": "doors:176700497",
     "text": "そ",
@@ -5881,7 +5891,7 @@
   },
   {
     "h": 139,
-    "jibo": "連",
+    "jibo": "礼",
     "poemIndex": 14,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -5891,7 +5901,7 @@
   },
   {
     "h": 76,
-    "jibo": "曾",
+    "jibo": "曽",
     "poemIndex": 14,
     "resourceId": "doors:176700497",
     "text": "そ",
@@ -5988,16 +5998,6 @@
     "w": 106,
     "x": 591,
     "y": 676
-  },
-  {
-    "h": 89,
-    "jibo": "部",
-    "poemIndex": 14,
-    "resourceId": "doors:176700497",
-    "text": "へ",
-    "w": 126,
-    "x": 1565,
-    "y": 643
   },
   {
     "h": 139,
@@ -6241,7 +6241,7 @@
   },
   {
     "h": 148,
-    "jibo": "畿",
+    "jibo": "幾",
     "poemIndex": 15,
     "resourceId": "doors:176700497",
     "text": "き",
@@ -6281,7 +6281,7 @@
   },
   {
     "h": 72,
-    "jibo": "徒",
+    "jibo": "川",
     "poemIndex": 15,
     "resourceId": "doors:176700497",
     "text": "つ",
@@ -6291,7 +6291,7 @@
   },
   {
     "h": 69,
-    "jibo": "〱",
+    "jibo": "ゝ",
     "poemIndex": 15,
     "resourceId": "doors:176700497",
     "text": "つ",
@@ -6391,7 +6391,7 @@
   },
   {
     "h": 80,
-    "jibo": "〱",
+    "jibo": "ゝ",
     "poemIndex": 15,
     "resourceId": "doors:176700497",
     "text": "つ",
@@ -6491,7 +6491,7 @@
   },
   {
     "h": 106,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 16,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -6651,7 +6651,7 @@
   },
   {
     "h": 78,
-    "jibo": "畿",
+    "jibo": "幾",
     "poemIndex": 16,
     "resourceId": "doors:176700497",
     "text": "き",
@@ -6678,6 +6678,196 @@
     "w": 104,
     "x": 1838,
     "y": 1142
+  },
+  {
+    "h": 72,
+    "jibo": "以",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "い",
+    "w": 109,
+    "x": 1694,
+    "y": 940
+  },
+  {
+    "h": 108,
+    "jibo": "末",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "ま",
+    "w": 57,
+    "x": 1724,
+    "y": 1013
+  },
+  {
+    "h": 77,
+    "jibo": "加",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 53,
+    "x": 1622,
+    "y": 945
+  },
+  {
+    "h": 65,
+    "jibo": "衣",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "え",
+    "w": 110,
+    "x": 1596,
+    "y": 1023
+  },
+  {
+    "h": 104,
+    "jibo": "利",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "り",
+    "w": 47,
+    "x": 1646,
+    "y": 1089
+  },
+  {
+    "h": 62,
+    "jibo": "己",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "こ",
+    "w": 57,
+    "x": 1597,
+    "y": 1129
+  },
+  {
+    "h": 123,
+    "jibo": "无",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "む",
+    "w": 161,
+    "x": 1567,
+    "y": 1191
+  },
+  {
+    "h": 107,
+    "jibo": "松",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "松",
+    "w": 135,
+    "x": 1001,
+    "y": 334
+  },
+  {
+    "h": 99,
+    "jibo": "止",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "と",
+    "w": 68,
+    "x": 1043,
+    "y": 450
+  },
+  {
+    "h": 123,
+    "jibo": "之",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 41,
+    "x": 1048,
+    "y": 553
+  },
+  {
+    "h": 97,
+    "jibo": "幾",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "き",
+    "w": 72,
+    "x": 910,
+    "y": 418
+  },
+  {
+    "h": 91,
+    "jibo": "加",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 62,
+    "x": 914,
+    "y": 531
+  },
+  {
+    "h": 67,
+    "jibo": "八",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "は",
+    "w": 99,
+    "x": 896,
+    "y": 640
+  },
+  {
+    "h": 169,
+    "jibo": "今",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "今",
+    "w": 116,
+    "x": 730,
+    "y": 365
+  },
+  {
+    "h": 87,
+    "jibo": "加",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 70,
+    "x": 739,
+    "y": 542
+  },
+  {
+    "h": 70,
+    "jibo": "衣",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "え",
+    "w": 129,
+    "x": 696,
+    "y": 634
+  },
+  {
+    "h": 99,
+    "jibo": "利",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "り",
+    "w": 63,
+    "x": 748,
+    "y": 706
+  },
+  {
+    "h": 100,
+    "jibo": "古",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "こ",
+    "w": 126,
+    "x": 545,
+    "y": 530
+  },
+  {
+    "h": 170,
+    "jibo": "无",
+    "poemIndex": 16,
+    "resourceId": "doors:176700497",
+    "text": "む",
+    "w": 164,
+    "x": 531,
+    "y": 633
   },
   {
     "h": 118,
@@ -6931,7 +7121,7 @@
   },
   {
     "h": 100,
-    "jibo": "爲",
+    "jibo": "為",
     "poemIndex": 17,
     "resourceId": "doors:176700497",
     "text": "ゐ",
@@ -7014,7 +7204,7 @@
     "jibo": "加",
     "poemIndex": 17,
     "resourceId": "doors:176700497",
-    "text": "加",
+    "text": "か",
     "w": 120,
     "x": 996,
     "y": 348
@@ -7034,14 +7224,14 @@
     "jibo": "久",
     "poemIndex": 17,
     "resourceId": "doors:176700497",
-    "text": "久",
+    "text": "く",
     "w": 72,
     "x": 976,
     "y": 462
   },
   {
     "h": 134,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 17,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -7054,14 +7244,14 @@
     "jibo": "奈",
     "poemIndex": 17,
     "resourceId": "doors:176700497",
-    "text": "奈",
+    "text": "な",
     "w": 95,
     "x": 826,
     "y": 382
   },
   {
     "h": 87,
-    "jibo": "爲",
+    "jibo": "為",
     "poemIndex": 17,
     "resourceId": "doors:176700497",
     "text": "ゐ",
@@ -7094,7 +7284,7 @@
     "jibo": "久",
     "poemIndex": 17,
     "resourceId": "doors:176700497",
-    "text": "久",
+    "text": "く",
     "w": 86,
     "x": 648,
     "y": 448
@@ -8560,6 +8750,46 @@
     "y": 649
   },
   {
+    "h": 137,
+    "jibo": "素",
+    "poemIndex": 21,
+    "resourceId": "doors:176700497",
+    "text": "素",
+    "w": 92,
+    "x": 2082,
+    "y": 388
+  },
+  {
+    "h": 88,
+    "jibo": "性",
+    "poemIndex": 21,
+    "resourceId": "doors:176700497",
+    "text": "性",
+    "w": 106,
+    "x": 2078,
+    "y": 543
+  },
+  {
+    "h": 102,
+    "jibo": "法",
+    "poemIndex": 21,
+    "resourceId": "doors:176700497",
+    "text": "法",
+    "w": 122,
+    "x": 2067,
+    "y": 636
+  },
+  {
+    "h": 112,
+    "jibo": "師",
+    "poemIndex": 21,
+    "resourceId": "doors:176700497",
+    "text": "師",
+    "w": 126,
+    "x": 2072,
+    "y": 749
+  },
+  {
     "h": 139,
     "jibo": "今",
     "poemIndex": 21,
@@ -8584,7 +8814,7 @@
     "jibo": "无",
     "poemIndex": 21,
     "resourceId": "doors:176700497",
-    "text": "こ",
+    "text": "ん",
     "w": 100,
     "x": 1940,
     "y": 518
@@ -8790,6 +9020,16 @@
     "y": 968
   },
   {
+    "h": 69,
+    "jibo": "川",
+    "poemIndex": 21,
+    "resourceId": "doors:176700497",
+    "text": "つ",
+    "w": 33,
+    "x": 1652,
+    "y": 1016
+  },
+  {
     "h": 56,
     "jibo": "留",
     "poemIndex": 21,
@@ -8818,46 +9058,6 @@
     "w": 116,
     "x": 1542,
     "y": 1178
-  },
-  {
-    "h": 137,
-    "jibo": "素",
-    "poemIndex": 21,
-    "resourceId": "doors:176700497",
-    "text": "素",
-    "w": 92,
-    "x": 2082,
-    "y": 388
-  },
-  {
-    "h": 88,
-    "jibo": "性",
-    "poemIndex": 21,
-    "resourceId": "doors:176700497",
-    "text": "性",
-    "w": 106,
-    "x": 2078,
-    "y": 543
-  },
-  {
-    "h": 102,
-    "jibo": "法",
-    "poemIndex": 21,
-    "resourceId": "doors:176700497",
-    "text": "法",
-    "w": 122,
-    "x": 2067,
-    "y": 636
-  },
-  {
-    "h": 112,
-    "jibo": "師",
-    "poemIndex": 21,
-    "resourceId": "doors:176700497",
-    "text": "師",
-    "w": 126,
-    "x": 2072,
-    "y": 749
   },
   {
     "h": 126,
@@ -8940,6 +9140,16 @@
     "y": 695
   },
   {
+    "h": 57,
+    "jibo": "川",
+    "poemIndex": 21,
+    "resourceId": "doors:176700497",
+    "text": "つ",
+    "w": 126,
+    "x": 663,
+    "y": 814
+  },
+  {
     "h": 64,
     "jibo": "留",
     "poemIndex": 21,
@@ -8970,24 +9180,44 @@
     "y": 769
   },
   {
-    "h": 57,
-    "jibo": "川",
-    "poemIndex": 21,
+    "h": 94,
+    "jibo": "文",
+    "poemIndex": 22,
     "resourceId": "doors:176700497",
-    "text": "つ",
-    "w": 126,
-    "x": 663,
-    "y": 814
+    "text": "文",
+    "w": 96,
+    "x": 2102,
+    "y": 396
   },
   {
-    "h": 69,
-    "jibo": "川",
-    "poemIndex": 21,
+    "h": 124,
+    "jibo": "屋",
+    "poemIndex": 22,
     "resourceId": "doors:176700497",
-    "text": "つ",
-    "w": 33,
-    "x": 1652,
-    "y": 1016
+    "text": "屋",
+    "w": 69,
+    "x": 2112,
+    "y": 504
+  },
+  {
+    "h": 147,
+    "jibo": "康",
+    "poemIndex": 22,
+    "resourceId": "doors:176700497",
+    "text": "康",
+    "w": 99,
+    "x": 2099,
+    "y": 642
+  },
+  {
+    "h": 153,
+    "jibo": "秀",
+    "poemIndex": 22,
+    "resourceId": "doors:176700497",
+    "text": "秀",
+    "w": 119,
+    "x": 2086,
+    "y": 792
   },
   {
     "h": 119,
@@ -9148,46 +9378,6 @@
     "w": 92,
     "x": 1601,
     "y": 748
-  },
-  {
-    "h": 94,
-    "jibo": "文",
-    "poemIndex": 22,
-    "resourceId": "doors:176700497",
-    "text": "文",
-    "w": 96,
-    "x": 2102,
-    "y": 396
-  },
-  {
-    "h": 124,
-    "jibo": "屋",
-    "poemIndex": 22,
-    "resourceId": "doors:176700497",
-    "text": "屋",
-    "w": 69,
-    "x": 2112,
-    "y": 504
-  },
-  {
-    "h": 147,
-    "jibo": "康",
-    "poemIndex": 22,
-    "resourceId": "doors:176700497",
-    "text": "康",
-    "w": 99,
-    "x": 2099,
-    "y": 642
-  },
-  {
-    "h": 153,
-    "jibo": "秀",
-    "poemIndex": 22,
-    "resourceId": "doors:176700497",
-    "text": "秀",
-    "w": 119,
-    "x": 2086,
-    "y": 792
   },
   {
     "h": 110,
@@ -10441,7 +10631,7 @@
   },
   {
     "h": 88,
-    "jibo": "く",
+    "jibo": "ゝ",
     "poemIndex": 25,
     "resourceId": "doors:176700497",
     "text": "は",
@@ -10994,17 +11184,17 @@
     "jibo": "一",
     "poemIndex": 26,
     "resourceId": "doors:176700497",
-    "text": "ひと",
+    "text": "一",
     "w": 150,
     "x": 1924,
     "y": 986
   },
   {
     "h": 87,
-    "jibo": "",
+    "jibo": "太",
     "poemIndex": 26,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "た",
     "w": 113,
     "x": 1934,
     "y": 1039
@@ -11174,7 +11364,7 @@
     "jibo": "幸",
     "poemIndex": 26,
     "resourceId": "doors:176700497",
-    "text": "幸b",
+    "text": "幸",
     "w": 96,
     "x": 562,
     "y": 516
@@ -13250,854 +13440,2214 @@
     "y": 706
   },
   {
-    "h": 138,
-    "jibo": "",
-    "poemIndex": 35,
+    "h": 127,
+    "jibo": "春",
+    "poemIndex": 32,
     "resourceId": "doors:176700497",
-    "text": "",
-    "w": 107,
-    "x": 1003,
-    "y": 334
-  },
-  {
-    "h": 84,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 104,
-    "x": 1001,
-    "y": 500
-  },
-  {
-    "h": 109,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 154,
-    "x": 823,
-    "y": 382
-  },
-  {
-    "h": 77,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 57,
-    "x": 903,
-    "y": 498
-  },
-  {
-    "h": 120,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 75,
-    "x": 892,
-    "y": 566
-  },
-  {
-    "h": 88,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 113,
-    "x": 801,
-    "y": 657
-  },
-  {
-    "h": 109,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
+    "text": "春",
     "w": 122,
-    "x": 685,
-    "y": 357
+    "x": 2059,
+    "y": 432
   },
   {
-    "h": 100,
-    "jibo": "",
-    "poemIndex": 35,
+    "h": 101,
+    "jibo": "道",
+    "poemIndex": 32,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "道",
+    "w": 86,
+    "x": 2079,
+    "y": 579
+  },
+  {
+    "h": 115,
+    "jibo": "列",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "列",
+    "w": 111,
+    "x": 2059,
+    "y": 690
+  },
+  {
+    "h": 111,
+    "jibo": "樹",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "樹",
+    "w": 100,
+    "x": 2074,
+    "y": 793
+  },
+  {
+    "h": 112,
+    "jibo": "山",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "山",
     "w": 116,
-    "x": 698,
-    "y": 475
+    "x": 1913,
+    "y": 341
   },
   {
-    "h": 88,
-    "jibo": "",
-    "poemIndex": 35,
+    "h": 125,
+    "jibo": "川",
+    "poemIndex": 32,
     "resourceId": "doors:176700497",
-    "text": "",
-    "w": 84,
-    "x": 576,
-    "y": 434
+    "text": "川",
+    "w": 104,
+    "x": 1920,
+    "y": 471
   },
   {
-    "h": 91,
-    "jibo": "",
-    "poemIndex": 35,
+    "h": 65,
+    "jibo": "に",
+    "poemIndex": 32,
     "resourceId": "doors:176700497",
-    "text": "",
-    "w": 97,
-    "x": 567,
-    "y": 534
+    "text": "尓",
+    "w": 88,
+    "x": 1922,
+    "y": 608
   },
   {
-    "h": 88,
-    "jibo": "",
-    "poemIndex": 35,
+    "h": 70,
+    "jibo": "可",
+    "poemIndex": 32,
     "resourceId": "doors:176700497",
-    "text": "",
-    "w": 120,
-    "x": 573,
-    "y": 643
+    "text": "か",
+    "w": 74,
+    "x": 1802,
+    "y": 466
   },
   {
-    "h": 97,
-    "jibo": "",
-    "poemIndex": 35,
+    "h": 69,
+    "jibo": "世",
+    "poemIndex": 32,
     "resourceId": "doors:176700497",
-    "text": "",
-    "w": 132,
-    "x": 544,
-    "y": 732
+    "text": "せ",
+    "w": 100,
+    "x": 1787,
+    "y": 550
   },
   {
     "h": 86,
-    "jibo": "",
-    "poemIndex": 35,
+    "jibo": "乃",
+    "poemIndex": 32,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "の",
+    "w": 87,
+    "x": 1801,
+    "y": 642
+  },
+  {
+    "h": 85,
+    "jibo": "可",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 61,
+    "x": 1687,
+    "y": 345
+  },
+  {
+    "h": 106,
+    "jibo": "計",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "け",
+    "w": 104,
+    "x": 1660,
+    "y": 429
+  },
+  {
+    "h": 85,
+    "jibo": "太",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "た",
+    "w": 87,
+    "x": 1678,
+    "y": 525
+  },
+  {
+    "h": 92,
+    "jibo": "留",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "る",
+    "w": 60,
+    "x": 1703,
+    "y": 625
+  },
+  {
+    "h": 79,
+    "jibo": "志",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 91,
+    "x": 1541,
+    "y": 381
+  },
+  {
+    "h": 67,
+    "jibo": "可",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 73,
+    "x": 1569,
+    "y": 470
+  },
+  {
+    "h": 77,
+    "jibo": "良",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "ら",
+    "w": 77,
+    "x": 1557,
+    "y": 546
+  },
+  {
+    "h": 81,
+    "jibo": "奈",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "な",
+    "w": 77,
+    "x": 1571,
+    "y": 610
+  },
+  {
+    "h": 81,
+    "jibo": "三",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "み",
     "w": 70,
-    "x": 594,
-    "y": 818
+    "x": 1578,
+    "y": 704
+  },
+  {
+    "h": 52,
+    "jibo": "八",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "は",
+    "w": 86,
+    "x": 1571,
+    "y": 794
+  },
+  {
+    "h": 82,
+    "jibo": "奈",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "な",
+    "w": 70,
+    "x": 1948,
+    "y": 833
+  },
+  {
+    "h": 66,
+    "jibo": "可",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 45,
+    "x": 1966,
+    "y": 919
+  },
+  {
+    "h": 82,
+    "jibo": "礼",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "れ",
+    "w": 117,
+    "x": 1922,
+    "y": 1002
+  },
+  {
+    "h": 81,
+    "jibo": "毛",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "も",
+    "w": 87,
+    "x": 1958,
+    "y": 1108
+  },
+  {
+    "h": 86,
+    "jibo": "阿",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "あ",
+    "w": 98,
+    "x": 1810,
+    "y": 934
+  },
+  {
+    "h": 88,
+    "jibo": "部",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "へ",
+    "w": 104,
+    "x": 1808,
+    "y": 1035
+  },
+  {
+    "h": 113,
+    "jibo": "奴",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "ぬ",
+    "w": 128,
+    "x": 1796,
+    "y": 1137
+  },
+  {
+    "h": 101,
+    "jibo": "毛",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "も",
+    "w": 51,
+    "x": 1681,
+    "y": 888
+  },
+  {
+    "h": 86,
+    "jibo": "美",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "み",
+    "w": 119,
+    "x": 1642,
+    "y": 1019
+  },
+  {
+    "h": 103,
+    "jibo": "知",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "ち",
+    "w": 81,
+    "x": 1667,
+    "y": 1111
+  },
+  {
+    "h": 101,
+    "jibo": "奈",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "な",
+    "w": 68,
+    "x": 1570,
+    "y": 943
+  },
+  {
+    "h": 117,
+    "jibo": "利",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "り",
+    "w": 51,
+    "x": 1577,
+    "y": 1029
+  },
+  {
+    "h": 84,
+    "jibo": "介",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "け",
+    "w": 68,
+    "x": 1565,
+    "y": 1137
+  },
+  {
+    "h": 77,
+    "jibo": "里",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "り",
+    "w": 86,
+    "x": 1560,
+    "y": 1227
+  },
+  {
+    "h": 115,
+    "jibo": "奈",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "な",
+    "w": 125,
+    "x": 1011,
+    "y": 339
+  },
+  {
+    "h": 123,
+    "jibo": "可",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 53,
+    "x": 1037,
+    "y": 429
+  },
+  {
+    "h": 109,
+    "jibo": "礼",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "れ",
+    "w": 123,
+    "x": 990,
+    "y": 554
+  },
+  {
+    "h": 91,
+    "jibo": "毛",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "も",
+    "w": 87,
+    "x": 1027,
+    "y": 676
+  },
+  {
+    "h": 91,
+    "jibo": "阿",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "あ",
+    "w": 115,
+    "x": 850,
+    "y": 450
+  },
+  {
+    "h": 96,
+    "jibo": "部",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "へ",
+    "w": 153,
+    "x": 818,
+    "y": 554
+  },
+  {
+    "h": 115,
+    "jibo": "奴",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "ぬ",
+    "w": 121,
+    "x": 847,
+    "y": 640
+  },
+  {
+    "h": 147,
+    "jibo": "毛",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "も",
+    "w": 79,
+    "x": 711,
+    "y": 322
+  },
+  {
+    "h": 98,
+    "jibo": "三",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "み",
+    "w": 57,
+    "x": 720,
+    "y": 474
+  },
+  {
+    "h": 92,
+    "jibo": "知",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "ち",
+    "w": 92,
+    "x": 705,
+    "y": 574
+  },
+  {
+    "h": 141,
+    "jibo": "成",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "成",
+    "w": 94,
+    "x": 600,
+    "y": 422
+  },
+  {
+    "h": 92,
+    "jibo": "介",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "け",
+    "w": 76,
+    "x": 609,
+    "y": 578
+  },
+  {
+    "h": 113,
+    "jibo": "利",
+    "poemIndex": 32,
+    "resourceId": "doors:176700497",
+    "text": "り",
+    "w": 77,
+    "x": 596,
+    "y": 669
+  },
+  {
+    "h": 115,
+    "jibo": "紀",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "紀",
+    "w": 121,
+    "x": 2077,
+    "y": 442
+  },
+  {
+    "h": 132,
+    "jibo": "友",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "友",
+    "w": 96,
+    "x": 2106,
+    "y": 568
+  },
+  {
+    "h": 161,
+    "jibo": "則",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "則",
+    "w": 113,
+    "x": 2081,
+    "y": 714
+  },
+  {
+    "h": 124,
+    "jibo": "久",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "久",
+    "w": 77,
+    "x": 1972,
+    "y": 314
+  },
+  {
+    "h": 61,
+    "jibo": "可",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 69,
+    "x": 1983,
+    "y": 450
+  },
+  {
+    "h": 121,
+    "jibo": "太",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "た",
+    "w": 51,
+    "x": 1985,
+    "y": 516
+  },
+  {
+    "h": 86,
+    "jibo": "乃",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 83,
+    "x": 1963,
+    "y": 643
+  },
+  {
+    "h": 120,
+    "jibo": "飛",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "ひ",
+    "w": 100,
+    "x": 1855,
+    "y": 364
+  },
+  {
+    "h": 90,
+    "jibo": "可",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 63,
+    "x": 1871,
+    "y": 471
+  },
+  {
+    "h": 114,
+    "jibo": "利",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "り",
+    "w": 64,
+    "x": 1877,
+    "y": 547
+  },
+  {
+    "h": 68,
+    "jibo": "乃",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 103,
+    "x": 1744,
+    "y": 445
+  },
+  {
+    "h": 78,
+    "jibo": "止",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "と",
+    "w": 82,
+    "x": 1774,
+    "y": 520
+  },
+  {
+    "h": 96,
+    "jibo": "計",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "け",
+    "w": 103,
+    "x": 1754,
+    "y": 605
+  },
+  {
+    "h": 130,
+    "jibo": "幾",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "き",
+    "w": 82,
+    "x": 1767,
+    "y": 688
+  },
+  {
+    "h": 145,
+    "jibo": "春",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "春",
+    "w": 91,
+    "x": 1634,
+    "y": 362
+  },
+  {
+    "h": 107,
+    "jibo": "能",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 137,
+    "x": 1591,
+    "y": 498
+  },
+  {
+    "h": 68,
+    "jibo": "日",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "日",
+    "w": 92,
+    "x": 1625,
+    "y": 612
+  },
+  {
+    "h": 81,
+    "jibo": "尓",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "に",
+    "w": 97,
+    "x": 1620,
+    "y": 685
+  },
+  {
+    "h": 105,
+    "jibo": "志",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 110,
+    "x": 1942,
+    "y": 829
+  },
+  {
+    "h": 84,
+    "jibo": "川",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "つ",
+    "w": 96,
+    "x": 1964,
+    "y": 948
+  },
+  {
+    "h": 70,
+    "jibo": "心",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "心",
+    "w": 116,
+    "x": 1936,
+    "y": 1041
+  },
+  {
+    "h": 87,
+    "jibo": "奈",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "な",
+    "w": 82,
+    "x": 1956,
+    "y": 1122
+  },
+  {
+    "h": 83,
+    "jibo": "久",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "く",
+    "w": 60,
+    "x": 1970,
+    "y": 1219
+  },
+  {
+    "h": 136,
+    "jibo": "花",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "花",
+    "w": 113,
+    "x": 1817,
+    "y": 920
+  },
+  {
+    "h": 88,
+    "jibo": "乃",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 85,
+    "x": 1818,
+    "y": 1081
+  },
+  {
+    "h": 101,
+    "jibo": "知",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "ち",
+    "w": 77,
+    "x": 1696,
+    "y": 931
+  },
+  {
+    "h": 80,
+    "jibo": "留",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "る",
+    "w": 54,
+    "x": 1714,
+    "y": 1018
+  },
+  {
+    "h": 112,
+    "jibo": "良",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "ら",
+    "w": 83,
+    "x": 1631,
+    "y": 1026
+  },
+  {
+    "h": 143,
+    "jibo": "无",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "ん",
+    "w": 197,
+    "x": 1583,
+    "y": 1139
+  },
+  {
+    "h": 102,
+    "jibo": "志",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 134,
+    "x": 995,
+    "y": 353
+  },
+  {
+    "h": 108,
+    "jibo": "川",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "つ",
+    "w": 102,
+    "x": 1018,
+    "y": 494
+  },
+  {
+    "h": 94,
+    "jibo": "己",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "こ",
+    "w": 64,
+    "x": 921,
+    "y": 443
+  },
+  {
+    "h": 87,
+    "jibo": "ゝ",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "こ",
+    "w": 43,
+    "x": 936,
+    "y": 521
+  },
+  {
+    "h": 96,
+    "jibo": "呂",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "ろ",
+    "w": 81,
+    "x": 920,
+    "y": 617
+  },
+  {
+    "h": 115,
+    "jibo": "奈",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "な",
+    "w": 91,
+    "x": 805,
+    "y": 556
+  },
+  {
+    "h": 126,
+    "jibo": "久",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "く",
+    "w": 59,
+    "x": 825,
+    "y": 656
+  },
+  {
+    "h": 157,
+    "jibo": "花",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "花",
+    "w": 109,
+    "x": 695,
+    "y": 351
+  },
+  {
+    "h": 94,
+    "jibo": "乃",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 108,
+    "x": 691,
+    "y": 519
+  },
+  {
+    "h": 104,
+    "jibo": "知",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "ち",
+    "w": 74,
+    "x": 575,
+    "y": 400
+  },
+  {
+    "h": 92,
+    "jibo": "留",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "る",
+    "w": 62,
+    "x": 582,
+    "y": 485
+  },
+  {
+    "h": 98,
+    "jibo": "良",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "ら",
+    "w": 60,
+    "x": 563,
+    "y": 562
+  },
+  {
+    "h": 117,
+    "jibo": "无",
+    "poemIndex": 33,
+    "resourceId": "doors:176700497",
+    "text": "ん",
+    "w": 166,
+    "x": 524,
+    "y": 662
+  },
+  {
+    "h": 145,
+    "jibo": "藤",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "藤",
+    "w": 141,
+    "x": 2048,
+    "y": 418
+  },
+  {
+    "h": 117,
+    "jibo": "原",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "原",
+    "w": 102,
+    "x": 2065,
+    "y": 568
+  },
+  {
+    "h": 170,
+    "jibo": "奥",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "奥",
+    "w": 143,
+    "x": 2048,
+    "y": 698
+  },
+  {
+    "h": 141,
+    "jibo": "風",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "風",
+    "w": 143,
+    "x": 2052,
+    "y": 875
+  },
+  {
+    "h": 94,
+    "jibo": "太",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "た",
+    "w": 130,
+    "x": 1911,
+    "y": 323
+  },
+  {
+    "h": 145,
+    "jibo": "連",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "れ",
+    "w": 101,
+    "x": 1922,
+    "y": 408
+  },
+  {
+    "h": 79,
+    "jibo": "遠",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "を",
+    "w": 110,
+    "x": 1929,
+    "y": 561
+  },
+  {
+    "h": 66,
+    "jibo": "可",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 61,
+    "x": 1962,
+    "y": 647
   },
   {
     "h": 97,
-    "jibo": "",
+    "jibo": "毛",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "も",
+    "w": 91,
+    "x": 1949,
+    "y": 709
+  },
+  {
+    "h": 124,
+    "jibo": "之",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 68,
+    "x": 1829,
+    "y": 348
+  },
+  {
+    "h": 90,
+    "jibo": "留",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "る",
+    "w": 67,
+    "x": 1823,
+    "y": 481
+  },
+  {
+    "h": 157,
+    "jibo": "人",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "人",
+    "w": 169,
+    "x": 1780,
+    "y": 549
+  },
+  {
+    "h": 94,
+    "jibo": "尓",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "に",
+    "w": 96,
+    "x": 1830,
+    "y": 689
+  },
+  {
+    "h": 78,
+    "jibo": "世",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "よ",
+    "w": 99,
+    "x": 1678,
+    "y": 394
+  },
+  {
+    "h": 135,
+    "jibo": "无",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "ん",
+    "w": 129,
+    "x": 1668,
+    "y": 458
+  },
+  {
+    "h": 128,
+    "jibo": "高",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "高",
+    "w": 97,
+    "x": 1571,
+    "y": 440
+  },
+  {
+    "h": 75,
+    "jibo": "砂",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "砂",
+    "w": 129,
+    "x": 1562,
+    "y": 582
+  },
+  {
+    "h": 90,
+    "jibo": "乃",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 133,
+    "x": 1583,
+    "y": 683
+  },
+  {
+    "h": 87,
+    "jibo": "末",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "ま",
+    "w": 102,
+    "x": 1937,
+    "y": 872
+  },
+  {
+    "h": 92,
+    "jibo": "川",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "つ",
+    "w": 106,
+    "x": 1934,
+    "y": 978
+  },
+  {
+    "h": 97,
+    "jibo": "毛",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "も",
+    "w": 103,
+    "x": 1938,
+    "y": 1076
+  },
+  {
+    "h": 97,
+    "jibo": "武",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "む",
+    "w": 109,
+    "x": 1823,
+    "y": 950
+  },
+  {
+    "h": 61,
+    "jibo": "可",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 64,
+    "x": 1850,
+    "y": 1038
+  },
+  {
+    "h": 95,
+    "jibo": "之",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 69,
+    "x": 1856,
+    "y": 1107
+  },
+  {
+    "h": 105,
+    "jibo": "乃",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 113,
+    "x": 1817,
+    "y": 1194
+  },
+  {
+    "h": 140,
+    "jibo": "友",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "友",
+    "w": 134,
+    "x": 1678,
+    "y": 904
+  },
+  {
+    "h": 84,
+    "jibo": "奈",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "な",
+    "w": 99,
+    "x": 1700,
+    "y": 1051
+  },
+  {
+    "h": 98,
+    "jibo": "良",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "ら",
+    "w": 67,
+    "x": 1724,
+    "y": 1142
+  },
+  {
+    "h": 121,
+    "jibo": "奈",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "な",
+    "w": 104,
+    "x": 1573,
+    "y": 964
+  },
+  {
+    "h": 115,
+    "jibo": "久",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "く",
+    "w": 86,
+    "x": 1602,
+    "y": 1088
+  },
+  {
+    "h": 98,
+    "jibo": "尓",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "に",
+    "w": 144,
+    "x": 1567,
+    "y": 1206
+  },
+  {
+    "h": 134,
+    "jibo": "松",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "松",
+    "w": 147,
+    "x": 1005,
+    "y": 349
+  },
+  {
+    "h": 113,
+    "jibo": "毛",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "も",
+    "w": 87,
+    "x": 1047,
+    "y": 488
+  },
+  {
+    "h": 120,
+    "jibo": "武",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "む",
+    "w": 139,
+    "x": 982,
+    "y": 598
+  },
+  {
+    "h": 79,
+    "jibo": "可",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 71,
+    "x": 1022,
+    "y": 703
+  },
+  {
+    "h": 110,
+    "jibo": "之",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 52,
+    "x": 1045,
+    "y": 772
+  },
+  {
+    "h": 105,
+    "jibo": "乃",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 138,
+    "x": 973,
+    "y": 878
+  },
+  {
+    "h": 94,
+    "jibo": "止",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "と",
+    "w": 121,
+    "x": 849,
+    "y": 396
+  },
+  {
+    "h": 114,
+    "jibo": "毛",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "も",
+    "w": 71,
+    "x": 877,
+    "y": 496
+  },
+  {
+    "h": 130,
+    "jibo": "奈",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "な",
+    "w": 106,
+    "x": 785,
+    "y": 530
+  },
+  {
+    "h": 104,
+    "jibo": "良",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "ら",
+    "w": 97,
+    "x": 800,
+    "y": 671
+  },
+  {
+    "h": 138,
+    "jibo": "奈",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "な",
+    "w": 119,
+    "x": 637,
+    "y": 350
+  },
+  {
+    "h": 118,
+    "jibo": "久",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "く",
+    "w": 67,
+    "x": 674,
+    "y": 496
+  },
+  {
+    "h": 218,
+    "jibo": "耳",
+    "poemIndex": 34,
+    "resourceId": "doors:176700497",
+    "text": "に",
+    "w": 77,
+    "x": 586,
+    "y": 529
+  },
+  {
+    "h": 97,
+    "jibo": "紀",
     "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "紀",
     "w": 132,
     "x": 2067,
     "y": 457
   },
   {
     "h": 132,
-    "jibo": "",
+    "jibo": "貴",
     "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "貴",
     "w": 125,
     "x": 2067,
     "y": 607
   },
   {
     "h": 122,
-    "jibo": "",
+    "jibo": "之",
     "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "之",
     "w": 79,
     "x": 2083,
     "y": 782
   },
   {
     "h": 136,
-    "jibo": "",
+    "jibo": "人",
     "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "人",
     "w": 150,
     "x": 1930,
     "y": 339
   },
   {
     "h": 66,
-    "jibo": "",
+    "jibo": "八",
     "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "は",
     "w": 91,
     "x": 1962,
     "y": 450
   },
   {
     "h": 57,
-    "jibo": "",
+    "jibo": "以",
     "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "い",
     "w": 104,
     "x": 1939,
     "y": 541
   },
   {
     "h": 100,
-    "jibo": "",
+    "jibo": "左",
     "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "さ",
     "w": 54,
     "x": 1987,
     "y": 605
   },
   {
-    "h": 122,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 84,
-    "x": 1937,
-    "y": 821
-  },
-  {
-    "h": 102,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 97,
-    "x": 1951,
-    "y": 932
-  },
-  {
-    "h": 72,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 72,
-    "x": 1957,
-    "y": 1053
-  },
-  {
-    "h": 95,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 134,
-    "x": 1814,
-    "y": 918
-  },
-  {
-    "h": 63,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 50,
-    "x": 1864,
-    "y": 1023
-  },
-  {
-    "h": 95,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 59,
-    "x": 1864,
-    "y": 1100
-  },
-  {
-    "h": 66,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 97,
-    "x": 1817,
-    "y": 1205
-  },
-  {
-    "h": 127,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 79,
-    "x": 1714,
-    "y": 953
-  },
-  {
-    "h": 79,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 88,
-    "x": 1703,
-    "y": 1100
-  },
-  {
-    "h": 113,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 107,
-    "x": 1580,
-    "y": 930
-  },
-  {
-    "h": 88,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 107,
-    "x": 1562,
-    "y": 1046
-  },
-  {
     "h": 77,
-    "jibo": "",
+    "jibo": "心",
     "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
-    "w": 95,
-    "x": 1578,
-    "y": 1150
-  },
-  {
-    "h": 75,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 61,
-    "x": 1594,
-    "y": 1218
-  },
-  {
-    "h": 77,
-    "jibo": "",
-    "poemIndex": 35,
-    "resourceId": "doors:176700497",
-    "text": "",
+    "text": "心",
     "w": 107,
     "x": 1819,
     "y": 384
   },
   {
     "h": 86,
-    "jibo": "",
+    "jibo": "毛",
     "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "も",
     "w": 61,
     "x": 1842,
     "y": 468
   },
   {
     "h": 120,
-    "jibo": "",
+    "jibo": "之",
     "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "し",
     "w": 41,
     "x": 1853,
     "y": 568
   },
   {
     "h": 109,
-    "jibo": "",
+    "jibo": "良",
     "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "ら",
     "w": 75,
     "x": 1776,
     "y": 550
   },
   {
     "h": 102,
-    "jibo": "",
+    "jibo": "須",
     "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "す",
     "w": 122,
     "x": 1742,
     "y": 664
   },
   {
-    "h": 161,
-    "jibo": "",
+    "h": 95,
+    "jibo": "不",
     "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "ふ",
     "w": 118,
     "x": 1635,
     "y": 346
   },
   {
-    "h": 88,
-    "jibo": "",
+    "h": 75,
+    "jibo": "留",
     "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "る",
+    "w": 61,
+    "x": 1594,
+    "y": 1218
+  },
+  {
+    "h": 88,
+    "jibo": "左",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "さ",
     "w": 100,
     "x": 1608,
     "y": 496
   },
   {
     "h": 84,
-    "jibo": "",
+    "jibo": "止",
     "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "と",
     "w": 88,
     "x": 1619,
     "y": 598
   },
   {
-    "h": 93,
-    "jibo": "",
+    "h": 88,
+    "jibo": "乃",
     "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "の",
+    "w": 113,
+    "x": 801,
+    "y": 657
+  },
+  {
+    "h": 122,
+    "jibo": "者",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "は",
+    "w": 84,
+    "x": 1937,
+    "y": 821
+  },
+  {
+    "h": 102,
+    "jibo": "奈",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "な",
+    "w": 97,
+    "x": 1951,
+    "y": 932
+  },
+  {
+    "h": 72,
+    "jibo": "曽",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "そ",
+    "w": 72,
+    "x": 1958,
+    "y": 1053
+  },
+  {
+    "h": 95,
+    "jibo": "武",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "む",
+    "w": 134,
+    "x": 1814,
+    "y": 918
+  },
+  {
+    "h": 63,
+    "jibo": "可",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 50,
+    "x": 1864,
+    "y": 1023
+  },
+  {
+    "h": 95,
+    "jibo": "之",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 59,
+    "x": 1864,
+    "y": 1100
+  },
+  {
+    "h": 66,
+    "jibo": "乃",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 97,
+    "x": 1817,
+    "y": 1205
+  },
+  {
+    "h": 127,
+    "jibo": "香",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 79,
+    "x": 1714,
+    "y": 953
+  },
+  {
+    "h": 79,
+    "jibo": "尓",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "に",
+    "w": 88,
+    "x": 1703,
+    "y": 1100
+  },
+  {
+    "h": 113,
+    "jibo": "匂",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "匂",
+    "w": 107,
+    "x": 1580,
+    "y": 930
+  },
+  {
+    "h": 88,
+    "jibo": "比",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "ひ",
+    "w": 107,
+    "x": 1562,
+    "y": 1046
+  },
+  {
+    "h": 77,
+    "jibo": "計",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "け",
+    "w": 95,
+    "x": 1578,
+    "y": 1150
+  },
+  {
+    "h": 61,
+    "jibo": "留",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "る",
+    "w": 79,
+    "x": 1671,
+    "y": 450
+  },
+  {
+    "h": 138,
+    "jibo": "花",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "花",
+    "w": 107,
+    "x": 1003,
+    "y": 334
+  },
+  {
+    "h": 84,
+    "jibo": "曽",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "そ",
+    "w": 104,
+    "x": 1001,
+    "y": 500
+  },
+  {
+    "h": 109,
+    "jibo": "武",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "む",
+    "w": 154,
+    "x": 823,
+    "y": 382
+  },
+  {
+    "h": 77,
+    "jibo": "可",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 57,
+    "x": 903,
+    "y": 498
+  },
+  {
+    "h": 120,
+    "jibo": "之",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 75,
+    "x": 892,
+    "y": 566
+  },
+  {
+    "h": 93,
+    "jibo": "能",
+    "poemIndex": 35,
+    "resourceId": "doors:176700497",
+    "text": "の",
     "w": 161,
     "x": 1571,
     "y": 700
   },
   {
-    "h": 150,
-    "jibo": "",
-    "poemIndex": 36,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 125,
-    "x": 996,
-    "y": 366
-  },
-  {
     "h": 109,
-    "jibo": "",
-    "poemIndex": 36,
+    "jibo": "香",
+    "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
-    "w": 113,
-    "x": 1017,
-    "y": 578
-  },
-  {
-    "h": 63,
-    "jibo": "",
-    "poemIndex": 36,
-    "resourceId": "doors:176700497",
-    "text": "",
+    "text": "か",
     "w": 122,
-    "x": 853,
-    "y": 630
+    "x": 685,
+    "y": 357
   },
   {
-    "h": 84,
-    "jibo": "",
-    "poemIndex": 36,
+    "h": 100,
+    "jibo": "尓",
+    "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
-    "w": 91,
-    "x": 876,
-    "y": 707
+    "text": "に",
+    "w": 116,
+    "x": 698,
+    "y": 475
   },
   {
-    "h": 82,
-    "jibo": "",
-    "poemIndex": 36,
+    "h": 88,
+    "jibo": "尓",
+    "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
-    "w": 82,
-    "x": 860,
-    "y": 787
+    "text": "に",
+    "w": 84,
+    "x": 576,
+    "y": 434
   },
   {
-    "h": 107,
-    "jibo": "",
-    "poemIndex": 36,
+    "h": 91,
+    "jibo": "本",
+    "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
-    "w": 111,
-    "x": 817,
-    "y": 848
+    "text": "ほ",
+    "w": 97,
+    "x": 567,
+    "y": 534
   },
   {
-    "h": 143,
-    "jibo": "",
-    "poemIndex": 36,
+    "h": 88,
+    "jibo": "比",
+    "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
-    "w": 111,
-    "x": 683,
-    "y": 687
-  },
-  {
-    "h": 82,
-    "jibo": "",
-    "poemIndex": 36,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 127,
-    "x": 537,
-    "y": 768
-  },
-  {
-    "h": 132,
-    "jibo": "",
-    "poemIndex": 36,
-    "resourceId": "doors:176700497",
-    "text": "",
-    "w": 104,
+    "text": "ひ",
+    "w": 120,
     "x": 573,
-    "y": 857
+    "y": 643
   },
   {
     "h": 97,
-    "jibo": "",
-    "poemIndex": 36,
+    "jibo": "計",
+    "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
-    "w": 91,
-    "x": 539,
-    "y": 957
+    "text": "け",
+    "w": 132,
+    "x": 544,
+    "y": 732
   },
   {
-    "h": 166,
-    "jibo": "",
-    "poemIndex": 36,
+    "h": 86,
+    "jibo": "留",
+    "poemIndex": 35,
     "resourceId": "doors:176700497",
-    "text": "",
-    "w": 127,
-    "x": 523,
-    "y": 1041
+    "text": "る",
+    "w": 70,
+    "x": 594,
+    "y": 818
   },
   {
     "h": 113,
-    "jibo": "",
+    "jibo": "清",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "清",
     "w": 116,
     "x": 2064,
     "y": 421
   },
   {
     "h": 75,
-    "jibo": "",
+    "jibo": "原",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "原",
     "w": 84,
     "x": 2094,
     "y": 559
   },
   {
     "h": 109,
-    "jibo": "",
+    "jibo": "深",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "深",
     "w": 125,
     "x": 2078,
     "y": 648
   },
   {
     "h": 129,
-    "jibo": "",
+    "jibo": "養",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "養",
     "w": 113,
     "x": 2094,
     "y": 764
   },
   {
     "h": 97,
-    "jibo": "",
+    "jibo": "父",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "父",
     "w": 125,
     "x": 2085,
     "y": 896
   },
   {
     "h": 163,
-    "jibo": "",
+    "jibo": "夏",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "夏",
     "w": 82,
     "x": 1969,
     "y": 341
   },
   {
     "h": 88,
-    "jibo": "",
+    "jibo": "能",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "の",
     "w": 145,
     "x": 1935,
     "y": 493
   },
   {
     "h": 97,
-    "jibo": "",
+    "jibo": "与",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "よ",
     "w": 52,
     "x": 1987,
     "y": 559
   },
   {
     "h": 77,
-    "jibo": "",
+    "jibo": "八",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "は",
     "w": 91,
     "x": 1962,
     "y": 653
   },
   {
     "h": 125,
-    "jibo": "",
+    "jibo": "末",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "ま",
     "w": 68,
-    "x": 1857,
+    "x": 1858,
     "y": 366
   },
   {
     "h": 134,
-    "jibo": "",
+    "jibo": "多",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "た",
     "w": 84,
     "x": 1848,
     "y": 500
   },
   {
     "h": 161,
-    "jibo": "",
+    "jibo": "宵",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "宵",
     "w": 88,
     "x": 1769,
     "y": 509
   },
   {
     "h": 104,
-    "jibo": "",
+    "jibo": "奈",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "な",
     "w": 77,
     "x": 1696,
     "y": 357
   },
   {
     "h": 72,
-    "jibo": "",
+    "jibo": "可",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "か",
     "w": 70,
     "x": 1701,
     "y": 475
   },
   {
     "h": 84,
-    "jibo": "",
+    "jibo": "良",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "ら",
     "w": 109,
-    "x": 1682,
+    "x": 1683,
     "y": 553
   },
   {
     "h": 84,
-    "jibo": "",
+    "jibo": "阿",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "あ",
     "w": 129,
     "x": 1553,
     "y": 348
   },
   {
     "h": 122,
-    "jibo": "",
+    "jibo": "希",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "け",
     "w": 75,
     "x": 1585,
     "y": 446
   },
   {
     "h": 63,
-    "jibo": "",
+    "jibo": "奴",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "ぬ",
     "w": 116,
     "x": 1567,
     "y": 589
   },
   {
     "h": 61,
-    "jibo": "",
+    "jibo": "留",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "る",
     "w": 63,
     "x": 1608,
     "y": 659
   },
   {
     "h": 79,
-    "jibo": "",
+    "jibo": "遠",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "を",
     "w": 116,
     "x": 1589,
     "y": 737
   },
   {
     "h": 122,
-    "jibo": "",
+    "jibo": "久",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "く",
     "w": 107,
-    "x": 1957,
+    "x": 1958,
     "y": 805
   },
   {
     "h": 104,
-    "jibo": "",
+    "jibo": "毛",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "も",
     "w": 70,
     "x": 1980,
     "y": 934
   },
   {
     "h": 100,
-    "jibo": "",
+    "jibo": "乃",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "の",
     "w": 88,
     "x": 1969,
     "y": 1018
   },
   {
     "h": 86,
-    "jibo": "",
+    "jibo": "以",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "い",
     "w": 100,
     "x": 1867,
     "y": 896
   },
   {
     "h": 82,
-    "jibo": "",
+    "jibo": "川",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "つ",
     "w": 100,
     "x": 1880,
     "y": 996
   },
   {
     "h": 82,
-    "jibo": "",
+    "jibo": "己",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "こ",
     "w": 91,
     "x": 1873,
     "y": 1091
   },
   {
     "h": 82,
-    "jibo": "",
+    "jibo": "尓",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "に",
     "w": 91,
     "x": 1887,
     "y": 1191
   },
   {
     "h": 122,
-    "jibo": "",
+    "jibo": "月",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "月",
     "w": 116,
     "x": 1748,
     "y": 907
   },
   {
     "h": 73,
-    "jibo": "",
+    "jibo": "也",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "や",
     "w": 121,
     "x": 1741,
     "y": 1050
   },
   {
-    "h": 125,
-    "jibo": "",
+    "h": 57,
+    "jibo": "止",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
-    "w": 95,
-    "x": 1760,
-    "y": 1134
+    "text": "と",
+    "w": 49,
+    "x": 1786,
+    "y": 1130
+  },
+  {
+    "h": 91,
+    "jibo": "留",
+    "poemIndex": 36,
+    "resourceId": "doors:176700497",
+    "text": "る",
+    "w": 52,
+    "x": 592,
+    "y": 909
   },
   {
     "h": 127,
-    "jibo": "",
+    "jibo": "良",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "ら",
     "w": 75,
     "x": 1655,
     "y": 1016
   },
   {
     "h": 125,
-    "jibo": "",
+    "jibo": "遠",
     "poemIndex": 36,
     "resourceId": "doors:176700497",
-    "text": "",
+    "text": "ん",
     "w": 134,
     "x": 1626,
     "y": 1146
+  },
+  {
+    "h": 150,
+    "jibo": "雲",
+    "poemIndex": 36,
+    "resourceId": "doors:176700497",
+    "text": "雲",
+    "w": 125,
+    "x": 996,
+    "y": 366
+  },
+  {
+    "h": 109,
+    "jibo": "乃",
+    "poemIndex": 36,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 113,
+    "x": 1017,
+    "y": 578
+  },
+  {
+    "h": 63,
+    "jibo": "以",
+    "poemIndex": 36,
+    "resourceId": "doors:176700497",
+    "text": "い",
+    "w": 122,
+    "x": 853,
+    "y": 630
+  },
+  {
+    "h": 84,
+    "jibo": "川",
+    "poemIndex": 36,
+    "resourceId": "doors:176700497",
+    "text": "つ",
+    "w": 91,
+    "x": 876,
+    "y": 707
+  },
+  {
+    "h": 82,
+    "jibo": "己",
+    "poemIndex": 36,
+    "resourceId": "doors:176700497",
+    "text": "こ",
+    "w": 82,
+    "x": 860,
+    "y": 787
+  },
+  {
+    "h": 107,
+    "jibo": "尓",
+    "poemIndex": 36,
+    "resourceId": "doors:176700497",
+    "text": "に",
+    "w": 111,
+    "x": 817,
+    "y": 848
+  },
+  {
+    "h": 143,
+    "jibo": "月",
+    "poemIndex": 36,
+    "resourceId": "doors:176700497",
+    "text": "月",
+    "w": 111,
+    "x": 683,
+    "y": 687
+  },
+  {
+    "h": 82,
+    "jibo": "也",
+    "poemIndex": 36,
+    "resourceId": "doors:176700497",
+    "text": "や",
+    "w": 127,
+    "x": 537,
+    "y": 768
+  },
+  {
+    "h": 68,
+    "jibo": "止",
+    "poemIndex": 36,
+    "resourceId": "doors:176700497",
+    "text": "と",
+    "w": 104,
+    "x": 573,
+    "y": 857
+  },
+  {
+    "h": 51,
+    "jibo": "留",
+    "poemIndex": 36,
+    "resourceId": "doors:176700497",
+    "text": "る",
+    "w": 52,
+    "x": 1787,
+    "y": 1201
+  },
+  {
+    "h": 97,
+    "jibo": "良",
+    "poemIndex": 36,
+    "resourceId": "doors:176700497",
+    "text": "ら",
+    "w": 91,
+    "x": 539,
+    "y": 957
+  },
+  {
+    "h": 166,
+    "jibo": "无",
+    "poemIndex": 36,
+    "resourceId": "doors:176700497",
+    "text": "ん",
+    "w": 127,
+    "x": 523,
+    "y": 1041
   },
   {
     "h": 113,
@@ -15820,6 +17370,886 @@
     "y": 455
   },
   {
+    "h": 120,
+    "jibo": "壬",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "壬",
+    "w": 124,
+    "x": 2081,
+    "y": 433
+  },
+  {
+    "h": 116,
+    "jibo": "生",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "生",
+    "w": 111,
+    "x": 2097,
+    "y": 562
+  },
+  {
+    "h": 133,
+    "jibo": "見",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "見",
+    "w": 115,
+    "x": 2102,
+    "y": 801
+  },
+  {
+    "h": 110,
+    "jibo": "忠",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "忠",
+    "w": 119,
+    "x": 2092,
+    "y": 692
+  },
+  {
+    "h": 183,
+    "jibo": "恋",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "恋",
+    "w": 153,
+    "x": 1925,
+    "y": 334
+  },
+  {
+    "h": 100,
+    "jibo": "春",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "す",
+    "w": 133,
+    "x": 1937,
+    "y": 508
+  },
+  {
+    "h": 67,
+    "jibo": "天",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "て",
+    "w": 107,
+    "x": 1961,
+    "y": 605
+  },
+  {
+    "h": 109,
+    "jibo": "不",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "ふ",
+    "w": 122,
+    "x": 1959,
+    "y": 669
+  },
+  {
+    "h": 87,
+    "jibo": "王",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "わ",
+    "w": 67,
+    "x": 1838,
+    "y": 382
+  },
+  {
+    "h": 79,
+    "jibo": "可",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 103,
+    "x": 1827,
+    "y": 467
+  },
+  {
+    "h": 145,
+    "jibo": "名",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "名",
+    "w": 121,
+    "x": 1821,
+    "y": 544
+  },
+  {
+    "h": 58,
+    "jibo": "八",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "は",
+    "w": 111,
+    "x": 1832,
+    "y": 690
+  },
+  {
+    "h": 120,
+    "jibo": "末",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "ま",
+    "w": 94,
+    "x": 1711,
+    "y": 357
+  },
+  {
+    "h": 141,
+    "jibo": "多",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "た",
+    "w": 88,
+    "x": 1721,
+    "y": 480
+  },
+  {
+    "h": 124,
+    "jibo": "起",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "き",
+    "w": 133,
+    "x": 1690,
+    "y": 613
+  },
+  {
+    "h": 126,
+    "jibo": "立",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "立",
+    "w": 125,
+    "x": 1570,
+    "y": 389
+  },
+  {
+    "h": 120,
+    "jibo": "介",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "け",
+    "w": 83,
+    "x": 1591,
+    "y": 606
+  },
+  {
+    "h": 142,
+    "jibo": "利",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "り",
+    "w": 77,
+    "x": 1599,
+    "y": 723
+  },
+  {
+    "h": 159,
+    "jibo": "人",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "人",
+    "w": 143,
+    "x": 1943,
+    "y": 828
+  },
+  {
+    "h": 145,
+    "jibo": "之",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 37,
+    "x": 2007,
+    "y": 913
+  },
+  {
+    "h": 90,
+    "jibo": "連",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "れ",
+    "w": 64,
+    "x": 1942,
+    "y": 995
+  },
+  {
+    "h": 181,
+    "jibo": "須",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "す",
+    "w": 121,
+    "x": 1939,
+    "y": 1068
+  },
+  {
+    "h": 109,
+    "jibo": "思",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "思",
+    "w": 137,
+    "x": 1739,
+    "y": 865
+  },
+  {
+    "h": 87,
+    "jibo": "比",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "ひ",
+    "w": 102,
+    "x": 1773,
+    "y": 969
+  },
+  {
+    "h": 88,
+    "jibo": "曾",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "そ",
+    "w": 83,
+    "x": 1708,
+    "y": 1014
+  },
+  {
+    "h": 103,
+    "jibo": "女",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "め",
+    "w": 93,
+    "x": 1720,
+    "y": 1102
+  },
+  {
+    "h": 205,
+    "jibo": "之",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 46,
+    "x": 1641,
+    "y": 958
+  },
+  {
+    "h": 96,
+    "jibo": "可",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 67,
+    "x": 1629,
+    "y": 1171
+  },
+  {
+    "h": 153,
+    "jibo": "人",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "人",
+    "w": 167,
+    "x": 971,
+    "y": 327
+  },
+  {
+    "h": 119,
+    "jibo": "志",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 86,
+    "x": 999,
+    "y": 430
+  },
+  {
+    "h": 102,
+    "jibo": "礼",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "れ",
+    "w": 109,
+    "x": 969,
+    "y": 555
+  },
+  {
+    "h": 116,
+    "jibo": "春",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "す",
+    "w": 91,
+    "x": 1001,
+    "y": 672
+  },
+  {
+    "h": 90,
+    "jibo": "己",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "こ",
+    "w": 47,
+    "x": 1868,
+    "y": 1071
+  },
+  {
+    "h": 92,
+    "jibo": "曾",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "そ",
+    "w": 67,
+    "x": 1868,
+    "y": 1153
+  },
+  {
+    "h": 129,
+    "jibo": "己",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "こ",
+    "w": 68,
+    "x": 880,
+    "y": 550
+  },
+  {
+    "h": 92,
+    "jibo": "曾",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "そ",
+    "w": 84,
+    "x": 875,
+    "y": 668
+  },
+  {
+    "h": 96,
+    "jibo": "於",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "お",
+    "w": 110,
+    "x": 723,
+    "y": 352
+  },
+  {
+    "h": 96,
+    "jibo": "毛",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "も",
+    "w": 139,
+    "x": 729,
+    "y": 447
+  },
+  {
+    "h": 95,
+    "jibo": "比",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "ひ",
+    "w": 117,
+    "x": 729,
+    "y": 545
+  },
+  {
+    "h": 99,
+    "jibo": "曾",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "そ",
+    "w": 68,
+    "x": 630,
+    "y": 421
+  },
+  {
+    "h": 97,
+    "jibo": "女",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "め",
+    "w": 71,
+    "x": 637,
+    "y": 519
+  },
+  {
+    "h": 194,
+    "jibo": "之",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 43,
+    "x": 586,
+    "y": 501
+  },
+  {
+    "h": 81,
+    "jibo": "可",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 84,
+    "x": 563,
+    "y": 695
+  },
+  {
+    "h": 91,
+    "jibo": "尓",
+    "poemIndex": 41,
+    "resourceId": "doors:176700497",
+    "text": "に",
+    "w": 110,
+    "x": 1596,
+    "y": 510
+  },
+  {
+    "h": 138,
+    "jibo": "清",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "清",
+    "w": 134,
+    "x": 2067,
+    "y": 414
+  },
+  {
+    "h": 105,
+    "jibo": "原",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "原",
+    "w": 86,
+    "x": 2092,
+    "y": 548
+  },
+  {
+    "h": 122,
+    "jibo": "元",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "元",
+    "w": 109,
+    "x": 2083,
+    "y": 671
+  },
+  {
+    "h": 150,
+    "jibo": "輔",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "輔",
+    "w": 128,
+    "x": 2077,
+    "y": 788
+  },
+  {
+    "h": 121,
+    "jibo": "知",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "ち",
+    "w": 78,
+    "x": 1956,
+    "y": 349
+  },
+  {
+    "h": 96,
+    "jibo": "幾",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "き",
+    "w": 78,
+    "x": 1959,
+    "y": 475
+  },
+  {
+    "h": 124,
+    "jibo": "利",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "り",
+    "w": 71,
+    "x": 1971,
+    "y": 558
+  },
+  {
+    "h": 100,
+    "jibo": "幾",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "き",
+    "w": 75,
+    "x": 1906,
+    "y": 589
+  },
+  {
+    "h": 99,
+    "jibo": "那",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "な",
+    "w": 123,
+    "x": 1901,
+    "y": 692
+  },
+  {
+    "h": 111,
+    "jibo": "加",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 128,
+    "x": 1779,
+    "y": 341
+  },
+  {
+    "h": 114,
+    "jibo": "多",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "た",
+    "w": 123,
+    "x": 1772,
+    "y": 439
+  },
+  {
+    "h": 95,
+    "jibo": "三",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "み",
+    "w": 68,
+    "x": 1800,
+    "y": 559
+  },
+  {
+    "h": 91,
+    "jibo": "尓",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "に",
+    "w": 108,
+    "x": 1785,
+    "y": 646
+  },
+  {
+    "h": 111,
+    "jibo": "袖",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "袖",
+    "w": 106,
+    "x": 1681,
+    "y": 551
+  },
+  {
+    "h": 109,
+    "jibo": "遠",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "を",
+    "w": 90,
+    "x": 1691,
+    "y": 659
+  },
+  {
+    "h": 156,
+    "jibo": "之",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 60,
+    "x": 1615,
+    "y": 331
+  },
+  {
+    "h": 116,
+    "jibo": "本",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "ほ",
+    "w": 70,
+    "x": 1572,
+    "y": 432
+  },
+  {
+    "h": 107,
+    "jibo": "利",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "り",
+    "w": 83,
+    "x": 1572,
+    "y": 545
+  },
+  {
+    "h": 75,
+    "jibo": "川",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "つ",
+    "w": 131,
+    "x": 1535,
+    "y": 672
+  },
+  {
+    "h": 84,
+    "jibo": "〱",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "つ",
+    "w": 40,
+    "x": 1598,
+    "y": 725
+  },
+  {
+    "h": 133,
+    "jibo": "寸",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "す",
+    "w": 126,
+    "x": 1921,
+    "y": 882
+  },
+  {
+    "h": 119,
+    "jibo": "恵",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "ゑ",
+    "w": 103,
+    "x": 1928,
+    "y": 1018
+  },
+  {
+    "h": 94,
+    "jibo": "乃",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 123,
+    "x": 1928,
+    "y": 1136
+  },
+  {
+    "h": 141,
+    "jibo": "末",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "ま",
+    "w": 63,
+    "x": 1832,
+    "y": 897
+  },
+  {
+    "h": 76,
+    "jibo": "川",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "つ",
+    "w": 103,
+    "x": 1807,
+    "y": 1028
+  },
+  {
+    "h": 102,
+    "jibo": "山",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "山",
+    "w": 123,
+    "x": 1790,
+    "y": 1096
+  },
+  {
+    "h": 152,
+    "jibo": "波",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "波",
+    "w": 128,
+    "x": 1658,
+    "y": 874
+  },
+  {
+    "h": 68,
+    "jibo": "己",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "こ",
+    "w": 95,
+    "x": 1676,
+    "y": 1036
+  },
+  {
+    "h": 74,
+    "jibo": "左",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "さ",
+    "w": 63,
+    "x": 1692,
+    "y": 1085
+  },
+  {
+    "h": 134,
+    "jibo": "之",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 51,
+    "x": 1704,
+    "y": 1136
+  },
+  {
+    "h": 111,
+    "jibo": "止",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "と",
+    "w": 74,
+    "x": 1584,
+    "y": 1061
+  },
+  {
+    "h": 126,
+    "jibo": "波",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "は",
+    "w": 113,
+    "x": 1561,
+    "y": 1174
+  },
+  {
+    "h": 136,
+    "jibo": "寸",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "す",
+    "w": 137,
+    "x": 985,
+    "y": 348
+  },
+  {
+    "h": 113,
+    "jibo": "衛",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "ゑ",
+    "w": 112,
+    "x": 989,
+    "y": 481
+  },
+  {
+    "h": 91,
+    "jibo": "乃",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 92,
+    "x": 1007,
+    "y": 612
+  },
+  {
+    "h": 92,
+    "jibo": "末",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "ま",
+    "w": 81,
+    "x": 911,
+    "y": 544
+  },
+  {
+    "h": 95,
+    "jibo": "川",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "つ",
+    "w": 127,
+    "x": 873,
+    "y": 673
+  },
+  {
+    "h": 88,
+    "jibo": "山",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "山",
+    "w": 155,
+    "x": 876,
+    "y": 759
+  },
+  {
+    "h": 125,
+    "jibo": "波",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "波",
+    "w": 141,
+    "x": 740,
+    "y": 378
+  },
+  {
+    "h": 72,
+    "jibo": "己",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "こ",
+    "w": 119,
+    "x": 762,
+    "y": 503
+  },
+  {
+    "h": 89,
+    "jibo": "左",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "さ",
+    "w": 84,
+    "x": 767,
+    "y": 588
+  },
+  {
+    "h": 167,
+    "jibo": "之",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 54,
+    "x": 789,
+    "y": 658
+  },
+  {
+    "h": 86,
+    "jibo": "止",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "と",
+    "w": 70,
+    "x": 636,
+    "y": 536
+  },
+  {
+    "h": 153,
+    "jibo": "波",
+    "poemIndex": 42,
+    "resourceId": "doors:176700497",
+    "text": "は",
+    "w": 125,
+    "x": 612,
+    "y": 634
+  },
+  {
     "h": 95,
     "jibo": "中",
     "poemIndex": 43,
@@ -16001,7 +18431,7 @@
   },
   {
     "h": 92,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 43,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -17711,7 +20141,7 @@
   },
   {
     "h": 126,
-    "jibo": "衣",
+    "jibo": "重",
     "poemIndex": 47,
     "resourceId": "doors:176700497",
     "text": "え",
@@ -17771,7 +20201,7 @@
   },
   {
     "h": 123,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 47,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -18861,7 +21291,7 @@
   },
   {
     "h": 57,
-    "jibo": "〱",
+    "jibo": "ゝ",
     "poemIndex": 49,
     "resourceId": "doors:176700497",
     "text": "つ",
@@ -18911,7 +21341,7 @@
   },
   {
     "h": 117,
-    "jibo": "曾",
+    "jibo": "曽",
     "poemIndex": 49,
     "resourceId": "doors:176700497",
     "text": "そ",
@@ -18941,7 +21371,7 @@
   },
   {
     "h": 94,
-    "jibo": "阝",
+    "jibo": "部",
     "poemIndex": 49,
     "resourceId": "doors:176700497",
     "text": "へ",
@@ -19011,7 +21441,7 @@
   },
   {
     "h": 62,
-    "jibo": "〱",
+    "jibo": "ゝ",
     "poemIndex": 49,
     "resourceId": "doors:176700497",
     "text": "つ",
@@ -19051,7 +21481,7 @@
   },
   {
     "h": 111,
-    "jibo": "曾",
+    "jibo": "曽",
     "poemIndex": 49,
     "resourceId": "doors:176700497",
     "text": "そ",
@@ -19081,7 +21511,7 @@
   },
   {
     "h": 113,
-    "jibo": "阝",
+    "jibo": "部",
     "poemIndex": 49,
     "resourceId": "doors:176700497",
     "text": "へ",
@@ -19281,7 +21711,7 @@
   },
   {
     "h": 107,
-    "jibo": "阝",
+    "jibo": "部",
     "poemIndex": 50,
     "resourceId": "doors:176700497",
     "text": "へ",
@@ -20191,7 +22621,7 @@
   },
   {
     "h": 67,
-    "jibo": "〱",
+    "jibo": "ゝ",
     "poemIndex": 52,
     "resourceId": "doors:176700497",
     "text": "る",
@@ -20274,7 +22704,7 @@
     "jibo": "可",
     "poemIndex": 52,
     "resourceId": "doors:176700497",
-    "text": "か",
+    "text": "が",
     "w": 59,
     "x": 1588,
     "y": 663
@@ -20444,7 +22874,7 @@
     "jibo": "越",
     "poemIndex": 52,
     "resourceId": "doors:176700497",
-    "text": "を",
+    "text": "ほ",
     "w": 145,
     "x": 970,
     "y": 466
@@ -20671,7 +23101,7 @@
   },
   {
     "h": 70,
-    "jibo": "〱",
+    "jibo": "ゝ",
     "poemIndex": 53,
     "resourceId": "doors:176700497",
     "text": "つ",
@@ -21231,7 +23661,7 @@
   },
   {
     "h": 132,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 54,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -21241,7 +23671,7 @@
   },
   {
     "h": 104,
-    "jibo": "者",
+    "jibo": "止",
     "poemIndex": 54,
     "resourceId": "doors:176700497",
     "text": "と",
@@ -21611,7 +24041,7 @@
   },
   {
     "h": 102,
-    "jibo": "多",
+    "jibo": "太",
     "poemIndex": 55,
     "resourceId": "doors:176700497",
     "text": "た",
@@ -21621,7 +24051,7 @@
   },
   {
     "h": 122,
-    "jibo": "衣",
+    "jibo": "部",
     "poemIndex": 55,
     "resourceId": "doors:176700497",
     "text": "へ",
@@ -21691,7 +24121,7 @@
   },
   {
     "h": 157,
-    "jibo": "収",
+    "jibo": "奴",
     "poemIndex": 55,
     "resourceId": "doors:176700497",
     "text": "ぬ",
@@ -21741,7 +24171,7 @@
   },
   {
     "h": 131,
-    "jibo": "曾",
+    "jibo": "曽",
     "poemIndex": 55,
     "resourceId": "doors:176700497",
     "text": "そ",
@@ -21771,7 +24201,7 @@
   },
   {
     "h": 117,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 55,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -21841,7 +24271,7 @@
   },
   {
     "h": 171,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 55,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -21871,7 +24301,7 @@
   },
   {
     "h": 137,
-    "jibo": "曾",
+    "jibo": "曽",
     "poemIndex": 55,
     "resourceId": "doors:176700497",
     "text": "そ",
@@ -21901,7 +24331,7 @@
   },
   {
     "h": 128,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 55,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -21931,10 +24361,10 @@
   },
   {
     "h": 185,
-    "jibo": "穂",
+    "jibo": "越",
     "poemIndex": 55,
     "resourceId": "doors:176700497",
-    "text": "ほ",
+    "text": "を",
     "w": 142,
     "x": 648,
     "y": 490
@@ -21981,7 +24411,7 @@
   },
   {
     "h": 122,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 55,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -24240,166 +26670,6 @@
     "y": 610
   },
   {
-    "h": 100,
-    "jibo": "尓",
-    "poemIndex": 61,
-    "resourceId": "doors:176700497",
-    "text": "に",
-    "w": 111,
-    "x": 1934,
-    "y": 425
-  },
-  {
-    "h": 111,
-    "jibo": "能",
-    "poemIndex": 61,
-    "resourceId": "doors:176700497",
-    "text": "の",
-    "w": 131,
-    "x": 1795,
-    "y": 564
-  },
-  {
-    "h": 106,
-    "jibo": "介",
-    "poemIndex": 61,
-    "resourceId": "doors:176700497",
-    "text": "け",
-    "w": 100,
-    "x": 1934,
-    "y": 831
-  },
-  {
-    "h": 108,
-    "jibo": "尓",
-    "poemIndex": 61,
-    "resourceId": "doors:176700497",
-    "text": "に",
-    "w": 108,
-    "x": 1860,
-    "y": 1180
-  },
-  {
-    "h": 107,
-    "jibo": "尓",
-    "poemIndex": 61,
-    "resourceId": "doors:176700497",
-    "text": "に",
-    "w": 93,
-    "x": 1772,
-    "y": 861
-  },
-  {
-    "h": 81,
-    "jibo": "本",
-    "poemIndex": 61,
-    "resourceId": "doors:176700497",
-    "text": "ほ",
-    "w": 106,
-    "x": 1762,
-    "y": 967
-  },
-  {
-    "h": 104,
-    "jibo": "留",
-    "poemIndex": 61,
-    "resourceId": "doors:176700497",
-    "text": "る",
-    "w": 141,
-    "x": 1620,
-    "y": 982
-  },
-  {
-    "h": 85,
-    "jibo": "可",
-    "poemIndex": 61,
-    "resourceId": "doors:176700497",
-    "text": "か",
-    "w": 123,
-    "x": 1608,
-    "y": 1096
-  },
-  {
-    "h": 91,
-    "jibo": "奈",
-    "poemIndex": 61,
-    "resourceId": "doors:176700497",
-    "text": "な",
-    "w": 154,
-    "x": 1593,
-    "y": 1167
-  },
-  {
-    "h": 116,
-    "jibo": "介",
-    "poemIndex": 61,
-    "resourceId": "doors:176700497",
-    "text": "け",
-    "w": 136,
-    "x": 971,
-    "y": 346
-  },
-  {
-    "h": 108,
-    "jibo": "尓",
-    "poemIndex": 61,
-    "resourceId": "doors:176700497",
-    "text": "に",
-    "w": 116,
-    "x": 797,
-    "y": 657
-  },
-  {
-    "h": 121,
-    "jibo": "尓",
-    "poemIndex": 61,
-    "resourceId": "doors:176700497",
-    "text": "に",
-    "w": 118,
-    "x": 646,
-    "y": 346
-  },
-  {
-    "h": 81,
-    "jibo": "本",
-    "poemIndex": 61,
-    "resourceId": "doors:176700497",
-    "text": "ほ",
-    "w": 123,
-    "x": 623,
-    "y": 467
-  },
-  {
-    "h": 98,
-    "jibo": "留",
-    "poemIndex": 61,
-    "resourceId": "doors:176700497",
-    "text": "る",
-    "w": 95,
-    "x": 527,
-    "y": 531
-  },
-  {
-    "h": 95,
-    "jibo": "可",
-    "poemIndex": 61,
-    "resourceId": "doors:176700497",
-    "text": "か",
-    "w": 161,
-    "x": 502,
-    "y": 639
-  },
-  {
-    "h": 86,
-    "jibo": "奈",
-    "poemIndex": 61,
-    "resourceId": "doors:176700497",
-    "text": "な",
-    "w": 116,
-    "x": 509,
-    "y": 727
-  },
-  {
     "h": 129,
     "jibo": "伊",
     "poemIndex": 61,
@@ -24450,6 +26720,16 @@
     "y": 335
   },
   {
+    "h": 100,
+    "jibo": "尓",
+    "poemIndex": 61,
+    "resourceId": "doors:176700497",
+    "text": "に",
+    "w": 111,
+    "x": 1934,
+    "y": 425
+  },
+  {
     "h": 91,
     "jibo": "之",
     "poemIndex": 61,
@@ -24498,6 +26778,16 @@
     "w": 65,
     "x": 1843,
     "y": 467
+  },
+  {
+    "h": 111,
+    "jibo": "能",
+    "poemIndex": 61,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 131,
+    "x": 1795,
+    "y": 564
   },
   {
     "h": 99,
@@ -24570,6 +26860,16 @@
     "y": 675
   },
   {
+    "h": 106,
+    "jibo": "介",
+    "poemIndex": 61,
+    "resourceId": "doors:176700497",
+    "text": "け",
+    "w": 100,
+    "x": 1934,
+    "y": 831
+  },
+  {
     "h": 112,
     "jibo": "不",
     "poemIndex": 61,
@@ -24600,6 +26900,36 @@
     "y": 1112
   },
   {
+    "h": 108,
+    "jibo": "尓",
+    "poemIndex": 61,
+    "resourceId": "doors:176700497",
+    "text": "に",
+    "w": 108,
+    "x": 1860,
+    "y": 1180
+  },
+  {
+    "h": 107,
+    "jibo": "尓",
+    "poemIndex": 61,
+    "resourceId": "doors:176700497",
+    "text": "に",
+    "w": 93,
+    "x": 1772,
+    "y": 861
+  },
+  {
+    "h": 81,
+    "jibo": "本",
+    "poemIndex": 61,
+    "resourceId": "doors:176700497",
+    "text": "ほ",
+    "w": 106,
+    "x": 1762,
+    "y": 967
+  },
+  {
     "h": 96,
     "jibo": "以",
     "poemIndex": 61,
@@ -24618,6 +26948,46 @@
     "w": 132,
     "x": 1618,
     "y": 885
+  },
+  {
+    "h": 104,
+    "jibo": "留",
+    "poemIndex": 61,
+    "resourceId": "doors:176700497",
+    "text": "る",
+    "w": 141,
+    "x": 1620,
+    "y": 982
+  },
+  {
+    "h": 85,
+    "jibo": "可",
+    "poemIndex": 61,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 123,
+    "x": 1608,
+    "y": 1096
+  },
+  {
+    "h": 91,
+    "jibo": "奈",
+    "poemIndex": 61,
+    "resourceId": "doors:176700497",
+    "text": "な",
+    "w": 154,
+    "x": 1593,
+    "y": 1167
+  },
+  {
+    "h": 116,
+    "jibo": "介",
+    "poemIndex": 61,
+    "resourceId": "doors:176700497",
+    "text": "け",
+    "w": 136,
+    "x": 971,
+    "y": 346
   },
   {
     "h": 125,
@@ -24650,6 +27020,36 @@
     "y": 506
   },
   {
+    "h": 108,
+    "jibo": "尓",
+    "poemIndex": 61,
+    "resourceId": "doors:176700497",
+    "text": "に",
+    "w": 116,
+    "x": 797,
+    "y": 657
+  },
+  {
+    "h": 121,
+    "jibo": "尓",
+    "poemIndex": 61,
+    "resourceId": "doors:176700497",
+    "text": "に",
+    "w": 118,
+    "x": 646,
+    "y": 346
+  },
+  {
+    "h": 81,
+    "jibo": "本",
+    "poemIndex": 61,
+    "resourceId": "doors:176700497",
+    "text": "ほ",
+    "w": 123,
+    "x": 623,
+    "y": 467
+  },
+  {
     "h": 112,
     "jibo": "以",
     "poemIndex": 61,
@@ -24668,6 +27068,36 @@
     "w": 113,
     "x": 505,
     "y": 430
+  },
+  {
+    "h": 98,
+    "jibo": "留",
+    "poemIndex": 61,
+    "resourceId": "doors:176700497",
+    "text": "る",
+    "w": 95,
+    "x": 527,
+    "y": 531
+  },
+  {
+    "h": 95,
+    "jibo": "可",
+    "poemIndex": 61,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 161,
+    "x": 502,
+    "y": 639
+  },
+  {
+    "h": 86,
+    "jibo": "奈",
+    "poemIndex": 61,
+    "resourceId": "doors:176700497",
+    "text": "な",
+    "w": 116,
+    "x": 509,
+    "y": 727
   },
   {
     "h": 141,
@@ -26110,6 +28540,56 @@
     "y": 438
   },
   {
+    "h": 151,
+    "jibo": "相",
+    "poemIndex": 65,
+    "resourceId": "doors:176700497",
+    "text": "相",
+    "w": 117,
+    "x": 2081,
+    "y": 456
+  },
+  {
+    "h": 143,
+    "jibo": "模",
+    "poemIndex": 65,
+    "resourceId": "doors:176700497",
+    "text": "模",
+    "w": 139,
+    "x": 2067,
+    "y": 611
+  },
+  {
+    "h": 149,
+    "jibo": "宇",
+    "poemIndex": 65,
+    "resourceId": "doors:176700497",
+    "text": "う",
+    "w": 111,
+    "x": 1967,
+    "y": 329
+  },
+  {
+    "h": 97,
+    "jibo": "良",
+    "poemIndex": 65,
+    "resourceId": "doors:176700497",
+    "text": "ら",
+    "w": 105,
+    "x": 1969,
+    "y": 454
+  },
+  {
+    "h": 163,
+    "jibo": "美",
+    "poemIndex": 65,
+    "resourceId": "doors:176700497",
+    "text": "み",
+    "w": 103,
+    "x": 1949,
+    "y": 534
+  },
+  {
     "h": 75,
     "jibo": "王",
     "poemIndex": 65,
@@ -26120,6 +28600,16 @@
     "y": 601
   },
   {
+    "h": 113,
+    "jibo": "比",
+    "poemIndex": 65,
+    "resourceId": "doors:176700497",
+    "text": "ひ",
+    "w": 115,
+    "x": 1880,
+    "y": 679
+  },
+  {
     "h": 133,
     "jibo": "奉",
     "poemIndex": 65,
@@ -26128,6 +28618,36 @@
     "w": 97,
     "x": 1796,
     "y": 346
+  },
+  {
+    "h": 93,
+    "jibo": "左",
+    "poemIndex": 65,
+    "resourceId": "doors:176700497",
+    "text": "さ",
+    "w": 86,
+    "x": 1804,
+    "y": 466
+  },
+  {
+    "h": 109,
+    "jibo": "奴",
+    "poemIndex": 65,
+    "resourceId": "doors:176700497",
+    "text": "ぬ",
+    "w": 117,
+    "x": 1798,
+    "y": 565
+  },
+  {
+    "h": 123,
+    "jibo": "袖",
+    "poemIndex": 65,
+    "resourceId": "doors:176700497",
+    "text": "袖",
+    "w": 133,
+    "x": 1689,
+    "y": 486
   },
   {
     "h": 130,
@@ -26180,6 +28700,16 @@
     "y": 518
   },
   {
+    "h": 80,
+    "jibo": "乃",
+    "poemIndex": 65,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 86,
+    "x": 1574,
+    "y": 643
+  },
+  {
     "h": 109,
     "jibo": "遠",
     "poemIndex": 65,
@@ -26210,6 +28740,16 @@
     "y": 1017
   },
   {
+    "h": 121,
+    "jibo": "久",
+    "poemIndex": 65,
+    "resourceId": "doors:176700497",
+    "text": "く",
+    "w": 107,
+    "x": 1852,
+    "y": 890
+  },
+  {
     "h": 157,
     "jibo": "知",
     "poemIndex": 65,
@@ -26228,6 +28768,16 @@
     "w": 80,
     "x": 1816,
     "y": 1083
+  },
+  {
+    "h": 131,
+    "jibo": "无",
+    "poemIndex": 65,
+    "resourceId": "doors:176700497",
+    "text": "ン",
+    "w": 125,
+    "x": 1806,
+    "y": 1172
   },
   {
     "h": 145,
@@ -26260,6 +28810,16 @@
     "y": 1101
   },
   {
+    "h": 129,
+    "jibo": "遠",
+    "poemIndex": 65,
+    "resourceId": "doors:176700497",
+    "text": "を",
+    "w": 135,
+    "x": 1586,
+    "y": 939
+  },
+  {
     "h": 111,
     "jibo": "之",
     "poemIndex": 65,
@@ -26278,6 +28838,16 @@
     "w": 70,
     "x": 1575,
     "y": 1071
+  },
+  {
+    "h": 121,
+    "jibo": "礼",
+    "poemIndex": 65,
+    "resourceId": "doors:176700497",
+    "text": "れ",
+    "w": 167,
+    "x": 1552,
+    "y": 1174
   },
   {
     "h": 166,
@@ -26301,6 +28871,16 @@
   },
   {
     "h": 123,
+    "jibo": "久",
+    "poemIndex": 65,
+    "resourceId": "doors:176700497",
+    "text": "く",
+    "w": 93,
+    "x": 976,
+    "y": 623
+  },
+  {
+    "h": 123,
     "jibo": "知",
     "poemIndex": 65,
     "resourceId": "doors:176700497",
@@ -26318,6 +28898,16 @@
     "w": 89,
     "x": 866,
     "y": 682
+  },
+  {
+    "h": 131,
+    "jibo": "无",
+    "poemIndex": 65,
+    "resourceId": "doors:176700497",
+    "text": "ん",
+    "w": 109,
+    "x": 859,
+    "y": 780
   },
   {
     "h": 147,
@@ -26350,6 +28940,16 @@
     "y": 612
   },
   {
+    "h": 99,
+    "jibo": "於",
+    "poemIndex": 65,
+    "resourceId": "doors:176700497",
+    "text": "お",
+    "w": 107,
+    "x": 592,
+    "y": 382
+  },
+  {
     "h": 169,
     "jibo": "之",
     "poemIndex": 65,
@@ -26368,176 +28968,6 @@
     "w": 96,
     "x": 557,
     "y": 516
-  },
-  {
-    "h": 151,
-    "jibo": "相",
-    "poemIndex": 65,
-    "resourceId": "doors:176700497",
-    "text": "相",
-    "w": 117,
-    "x": 2081,
-    "y": 456
-  },
-  {
-    "h": 143,
-    "jibo": "模",
-    "poemIndex": 65,
-    "resourceId": "doors:176700497",
-    "text": "模",
-    "w": 139,
-    "x": 2067,
-    "y": 611
-  },
-  {
-    "h": 149,
-    "jibo": "宇",
-    "poemIndex": 65,
-    "resourceId": "doors:176700497",
-    "text": "う",
-    "w": 111,
-    "x": 1967,
-    "y": 329
-  },
-  {
-    "h": 97,
-    "jibo": "良",
-    "poemIndex": 65,
-    "resourceId": "doors:176700497",
-    "text": "ら",
-    "w": 105,
-    "x": 1969,
-    "y": 454
-  },
-  {
-    "h": 163,
-    "jibo": "美",
-    "poemIndex": 65,
-    "resourceId": "doors:176700497",
-    "text": "み",
-    "w": 103,
-    "x": 1949,
-    "y": 534
-  },
-  {
-    "h": 113,
-    "jibo": "比",
-    "poemIndex": 65,
-    "resourceId": "doors:176700497",
-    "text": "ひ",
-    "w": 115,
-    "x": 1880,
-    "y": 679
-  },
-  {
-    "h": 93,
-    "jibo": "左",
-    "poemIndex": 65,
-    "resourceId": "doors:176700497",
-    "text": "さ",
-    "w": 86,
-    "x": 1804,
-    "y": 466
-  },
-  {
-    "h": 109,
-    "jibo": "奴",
-    "poemIndex": 65,
-    "resourceId": "doors:176700497",
-    "text": "ぬ",
-    "w": 117,
-    "x": 1798,
-    "y": 565
-  },
-  {
-    "h": 123,
-    "jibo": "袖",
-    "poemIndex": 65,
-    "resourceId": "doors:176700497",
-    "text": "袖",
-    "w": 133,
-    "x": 1689,
-    "y": 486
-  },
-  {
-    "h": 80,
-    "jibo": "乃",
-    "poemIndex": 65,
-    "resourceId": "doors:176700497",
-    "text": "の",
-    "w": 86,
-    "x": 1574,
-    "y": 643
-  },
-  {
-    "h": 121,
-    "jibo": "久",
-    "poemIndex": 65,
-    "resourceId": "doors:176700497",
-    "text": "く",
-    "w": 107,
-    "x": 1852,
-    "y": 890
-  },
-  {
-    "h": 131,
-    "jibo": "无",
-    "poemIndex": 65,
-    "resourceId": "doors:176700497",
-    "text": "ン",
-    "w": 125,
-    "x": 1806,
-    "y": 1172
-  },
-  {
-    "h": 129,
-    "jibo": "遠",
-    "poemIndex": 65,
-    "resourceId": "doors:176700497",
-    "text": "を",
-    "w": 135,
-    "x": 1586,
-    "y": 939
-  },
-  {
-    "h": 121,
-    "jibo": "礼",
-    "poemIndex": 65,
-    "resourceId": "doors:176700497",
-    "text": "れ",
-    "w": 167,
-    "x": 1552,
-    "y": 1174
-  },
-  {
-    "h": 123,
-    "jibo": "久",
-    "poemIndex": 65,
-    "resourceId": "doors:176700497",
-    "text": "く",
-    "w": 93,
-    "x": 976,
-    "y": 623
-  },
-  {
-    "h": 131,
-    "jibo": "无",
-    "poemIndex": 65,
-    "resourceId": "doors:176700497",
-    "text": "ん",
-    "w": 109,
-    "x": 859,
-    "y": 780
-  },
-  {
-    "h": 99,
-    "jibo": "於",
-    "poemIndex": 65,
-    "resourceId": "doors:176700497",
-    "text": "お",
-    "w": 107,
-    "x": 592,
-    "y": 382
   },
   {
     "h": 153,
@@ -27261,7 +29691,7 @@
   },
   {
     "h": 142,
-    "jibo": "曾",
+    "jibo": "曽",
     "poemIndex": 67,
     "resourceId": "doors:176700497",
     "text": "そ",
@@ -27450,6 +29880,36 @@
     "y": 676
   },
   {
+    "h": 119,
+    "jibo": "三",
+    "poemIndex": 68,
+    "resourceId": "doors:176700497",
+    "text": "三",
+    "w": 93,
+    "x": 2089,
+    "y": 423
+  },
+  {
+    "h": 157,
+    "jibo": "条",
+    "poemIndex": 68,
+    "resourceId": "doors:176700497",
+    "text": "条",
+    "w": 127,
+    "x": 2074,
+    "y": 578
+  },
+  {
+    "h": 133,
+    "jibo": "院",
+    "poemIndex": 68,
+    "resourceId": "doors:176700497",
+    "text": "院",
+    "w": 141,
+    "x": 2068,
+    "y": 755
+  },
+  {
     "h": 97,
     "jibo": "己",
     "poemIndex": 68,
@@ -27461,7 +29921,7 @@
   },
   {
     "h": 76,
-    "jibo": "己",
+    "jibo": "ゝ",
     "poemIndex": 68,
     "resourceId": "doors:176700497",
     "text": "こ",
@@ -27618,36 +30078,6 @@
     "w": 93,
     "x": 1576,
     "y": 695
-  },
-  {
-    "h": 119,
-    "jibo": "三",
-    "poemIndex": 68,
-    "resourceId": "doors:176700497",
-    "text": "三",
-    "w": 93,
-    "x": 2089,
-    "y": 423
-  },
-  {
-    "h": 157,
-    "jibo": "条",
-    "poemIndex": 68,
-    "resourceId": "doors:176700497",
-    "text": "条",
-    "w": 127,
-    "x": 2074,
-    "y": 578
-  },
-  {
-    "h": 133,
-    "jibo": "院",
-    "poemIndex": 68,
-    "resourceId": "doors:176700497",
-    "text": "院",
-    "w": 141,
-    "x": 2068,
-    "y": 755
   },
   {
     "h": 111,
@@ -28064,7 +30494,7 @@
     "jibo": "知",
     "poemIndex": 69,
     "resourceId": "doors:176700497",
-    "text": "し",
+    "text": "ち",
     "w": 77,
     "x": 1577,
     "y": 601
@@ -28281,7 +30711,7 @@
   },
   {
     "h": 100,
-    "jibo": "乃",
+    "jibo": "之",
     "poemIndex": 69,
     "resourceId": "doors:176700497",
     "text": "し",
@@ -28651,7 +31081,7 @@
   },
   {
     "h": 109,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 70,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -28821,7 +31251,7 @@
   },
   {
     "h": 116,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 71,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -29331,10 +31761,10 @@
   },
   {
     "h": 71,
-    "jibo": "知",
+    "jibo": "可",
     "poemIndex": 72,
     "resourceId": "doors:176700497",
-    "text": "ち",
+    "text": "か",
     "w": 34,
     "x": 1872,
     "y": 474
@@ -29634,7 +32064,7 @@
     "jibo": "奴",
     "poemIndex": 72,
     "resourceId": "doors:176700497",
-    "text": "ゆ",
+    "text": "ぬ",
     "w": 105,
     "x": 659,
     "y": 363
@@ -29644,7 +32074,7 @@
     "jibo": "連",
     "poemIndex": 72,
     "resourceId": "doors:176700497",
-    "text": "れん",
+    "text": "れ",
     "w": 63,
     "x": 684,
     "y": 456
@@ -29801,7 +32231,7 @@
   },
   {
     "h": 71,
-    "jibo": "阝",
+    "jibo": "部",
     "poemIndex": 73,
     "resourceId": "doors:176700497",
     "text": "へ",
@@ -30034,7 +32464,7 @@
     "jibo": "无",
     "poemIndex": 73,
     "resourceId": "doors:176700497",
-    "text": "む",
+    "text": "ん",
     "w": 117,
     "x": 1566,
     "y": 1170
@@ -30184,7 +32614,7 @@
     "jibo": "无",
     "poemIndex": 73,
     "resourceId": "doors:176700497",
-    "text": "む",
+    "text": "ん",
     "w": 129,
     "x": 582,
     "y": 609
@@ -30431,7 +32861,7 @@
   },
   {
     "h": 92,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 74,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -30614,7 +33044,7 @@
     "jibo": "良",
     "poemIndex": 74,
     "resourceId": "doors:176700497",
-    "text": "よ",
+    "text": "ら",
     "w": 31,
     "x": 713,
     "y": 517
@@ -30660,84 +33090,434 @@
     "y": 601
   },
   {
-    "h": 144,
+    "h": 160,
     "jibo": "藤",
     "poemIndex": 75,
     "resourceId": "doors:176700497",
     "text": "藤",
-    "w": 118,
-    "x": 2074,
-    "y": 374
+    "w": 145,
+    "x": 2075,
+    "y": 367
   },
   {
-    "h": 127,
+    "h": 128,
     "jibo": "原",
     "poemIndex": 75,
     "resourceId": "doors:176700497",
     "text": "原",
-    "w": 103,
-    "x": 2089,
-    "y": 519
+    "w": 104,
+    "x": 2094,
+    "y": 521
   },
   {
-    "h": 145,
+    "h": 135,
     "jibo": "基",
     "poemIndex": 75,
     "resourceId": "doors:176700497",
     "text": "基",
-    "w": 105,
-    "x": 2095,
-    "y": 642
+    "w": 123,
+    "x": 2084,
+    "y": 643
   },
   {
-    "h": 132,
+    "h": 133,
     "jibo": "俊",
     "poemIndex": 75,
     "resourceId": "doors:176700497",
     "text": "俊",
-    "w": 114,
-    "x": 2102,
-    "y": 783
+    "w": 124,
+    "x": 2092,
+    "y": 772
   },
   {
-    "h": 149,
+    "h": 170,
     "jibo": "契",
     "poemIndex": 75,
     "resourceId": "doors:176700497",
     "text": "契",
-    "w": 130,
-    "x": 1925,
-    "y": 351
+    "w": 131,
+    "x": 1932,
+    "y": 344
   },
   {
-    "h": 87,
+    "h": 84,
     "jibo": "遠",
     "poemIndex": 75,
     "resourceId": "doors:176700497",
     "text": "を",
-    "w": 94,
-    "x": 1935,
-    "y": 499
+    "w": 113,
+    "x": 1931,
+    "y": 489
   },
   {
-    "h": 103,
+    "h": 127,
     "jibo": "幾",
     "poemIndex": 75,
     "resourceId": "doors:176700497",
     "text": "き",
-    "w": 67,
-    "x": 1957,
-    "y": 592
+    "w": 75,
+    "x": 1956,
+    "y": 571
   },
   {
-    "h": 192,
+    "h": 201,
     "jibo": "之",
     "poemIndex": 75,
     "resourceId": "doors:176700497",
     "text": "し",
-    "w": 47,
-    "x": 1901,
-    "y": 546
+    "w": 52,
+    "x": 1900,
+    "y": 544
+  },
+  {
+    "h": 90,
+    "jibo": "左",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "さ",
+    "w": 107,
+    "x": 1761,
+    "y": 357
+  },
+  {
+    "h": 73,
+    "jibo": "世",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "せ",
+    "w": 150,
+    "x": 1734,
+    "y": 454
+  },
+  {
+    "h": 128,
+    "jibo": "毛",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "も",
+    "w": 62,
+    "x": 1796,
+    "y": 518
+  },
+  {
+    "h": 91,
+    "jibo": "可",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 56,
+    "x": 1800,
+    "y": 631
+  },
+  {
+    "h": 153,
+    "jibo": "露",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "露",
+    "w": 103,
+    "x": 1698,
+    "y": 520
+  },
+  {
+    "h": 92,
+    "jibo": "遠",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "を",
+    "w": 117,
+    "x": 1684,
+    "y": 664
+  },
+  {
+    "h": 90,
+    "jibo": "以",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "い",
+    "w": 143,
+    "x": 1537,
+    "y": 343
+  },
+  {
+    "h": 84,
+    "jibo": "乃",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 123,
+    "x": 1559,
+    "y": 431
+  },
+  {
+    "h": 94,
+    "jibo": "知",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "ち",
+    "w": 115,
+    "x": 1570,
+    "y": 513
+  },
+  {
+    "h": 114,
+    "jibo": "尓",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "に",
+    "w": 107,
+    "x": 1569,
+    "y": 595
+  },
+  {
+    "h": 114,
+    "jibo": "天",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "て",
+    "w": 111,
+    "x": 1572,
+    "y": 672
+  },
+  {
+    "h": 99,
+    "jibo": "阿",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "あ",
+    "w": 159,
+    "x": 1916,
+    "y": 824
+  },
+  {
+    "h": 94,
+    "jibo": "者",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "は",
+    "w": 103,
+    "x": 1938,
+    "y": 928
+  },
+  {
+    "h": 122,
+    "jibo": "礼",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "れ",
+    "w": 125,
+    "x": 1929,
+    "y": 1017
+  },
+  {
+    "h": 81,
+    "jibo": "己",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "こ",
+    "w": 76,
+    "x": 1856,
+    "y": 959
+  },
+  {
+    "h": 72,
+    "jibo": "止",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "と",
+    "w": 90,
+    "x": 1852,
+    "y": 1034
+  },
+  {
+    "h": 149,
+    "jibo": "之",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 44,
+    "x": 1879,
+    "y": 1085
+  },
+  {
+    "h": 95,
+    "jibo": "乃",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 102,
+    "x": 1791,
+    "y": 1210
+  },
+  {
+    "h": 145,
+    "jibo": "秋",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "秋",
+    "w": 109,
+    "x": 1710,
+    "y": 841
+  },
+  {
+    "h": 103,
+    "jibo": "毛",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "も",
+    "w": 78,
+    "x": 1726,
+    "y": 976
+  },
+  {
+    "h": 90,
+    "jibo": "以",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "い",
+    "w": 109,
+    "x": 1599,
+    "y": 893
+  },
+  {
+    "h": 105,
+    "jibo": "奴",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "ぬ",
+    "w": 114,
+    "x": 1596,
+    "y": 986
+  },
+  {
+    "h": 78,
+    "jibo": "女",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "め",
+    "w": 116,
+    "x": 1604,
+    "y": 1089
+  },
+  {
+    "h": 144,
+    "jibo": "利",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "り",
+    "w": 57,
+    "x": 1644,
+    "y": 1170
+  },
+  {
+    "h": 178,
+    "jibo": "哀",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "哀",
+    "w": 109,
+    "x": 1022,
+    "y": 334
+  },
+  {
+    "h": 69,
+    "jibo": "己",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "こ",
+    "w": 74,
+    "x": 1050,
+    "y": 522
+  },
+  {
+    "h": 90,
+    "jibo": "止",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "と",
+    "w": 80,
+    "x": 1056,
+    "y": 574
+  },
+  {
+    "h": 141,
+    "jibo": "之",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 49,
+    "x": 1055,
+    "y": 645
+  },
+  {
+    "h": 111,
+    "jibo": "乃",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 96,
+    "x": 955,
+    "y": 630
+  },
+  {
+    "h": 155,
+    "jibo": "秋",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "秋",
+    "w": 131,
+    "x": 853,
+    "y": 337
+  },
+  {
+    "h": 98,
+    "jibo": "毛",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "も",
+    "w": 109,
+    "x": 859,
+    "y": 485
+  },
+  {
+    "h": 86,
+    "jibo": "以",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "い",
+    "w": 132,
+    "x": 692,
+    "y": 333
+  },
+  {
+    "h": 110,
+    "jibo": "奴",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "ぬ",
+    "w": 140,
+    "x": 700,
+    "y": 410
+  },
+  {
+    "h": 79,
+    "jibo": "女",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "め",
+    "w": 97,
+    "x": 565,
+    "y": 328
+  },
+  {
+    "h": 122,
+    "jibo": "利",
+    "poemIndex": 75,
+    "resourceId": "doors:176700497",
+    "text": "り",
+    "w": 59,
+    "x": 584,
+    "y": 393
   },
   {
     "h": 111,
@@ -30950,6 +33730,336 @@
     "y": 481
   },
   {
+    "h": 110,
+    "jibo": "出",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "て",
+    "w": 89,
+    "x": 1823,
+    "y": 559
+  },
+  {
+    "h": 127,
+    "jibo": "天",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "て",
+    "w": 76,
+    "x": 1839,
+    "y": 650
+  },
+  {
+    "h": 115,
+    "jibo": "久",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "久",
+    "w": 110,
+    "x": 1588,
+    "y": 355
+  },
+  {
+    "h": 94,
+    "jibo": "可",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 102,
+    "x": 1597,
+    "y": 478
+  },
+  {
+    "h": 105,
+    "jibo": "多",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "た",
+    "w": 92,
+    "x": 1593,
+    "y": 547
+  },
+  {
+    "h": 119,
+    "jibo": "乃",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 108,
+    "x": 1579,
+    "y": 655
+  },
+  {
+    "h": 161,
+    "jibo": "雲",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "雲",
+    "w": 110,
+    "x": 1920,
+    "y": 826
+  },
+  {
+    "h": 158,
+    "jibo": "井",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "井",
+    "w": 122,
+    "x": 1906,
+    "y": 983
+  },
+  {
+    "h": 102,
+    "jibo": "尓",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "に",
+    "w": 95,
+    "x": 1914,
+    "y": 1136
+  },
+  {
+    "h": 99,
+    "jibo": "末",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "ま",
+    "w": 94,
+    "x": 1827,
+    "y": 867
+  },
+  {
+    "h": 98,
+    "jibo": "可",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 88,
+    "x": 1827,
+    "y": 954
+  },
+  {
+    "h": 127,
+    "jibo": "不",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "ふ",
+    "w": 114,
+    "x": 1801,
+    "y": 1024
+  },
+  {
+    "h": 100,
+    "jibo": "於",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "お",
+    "w": 128,
+    "x": 1692,
+    "y": 924
+  },
+  {
+    "h": 82,
+    "jibo": "幾",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "き",
+    "w": 91,
+    "x": 1717,
+    "y": 1036
+  },
+  {
+    "h": 151,
+    "jibo": "川",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "つ",
+    "w": 119,
+    "x": 1703,
+    "y": 1113
+  },
+  {
+    "h": 122,
+    "jibo": "白",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "白",
+    "w": 106,
+    "x": 1582,
+    "y": 973
+  },
+  {
+    "h": 85,
+    "jibo": "奈",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "な",
+    "w": 83,
+    "x": 1586,
+    "y": 1096
+  },
+  {
+    "h": 98,
+    "jibo": "三",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "み",
+    "w": 76,
+    "x": 1591,
+    "y": 1184
+  },
+  {
+    "h": 160,
+    "jibo": "雲",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "雲",
+    "w": 109,
+    "x": 1017,
+    "y": 367
+  },
+  {
+    "h": 98,
+    "jibo": "為",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "い",
+    "w": 93,
+    "x": 1025,
+    "y": 544
+  },
+  {
+    "h": 108,
+    "jibo": "尓",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "に",
+    "w": 131,
+    "x": 1019,
+    "y": 639
+  },
+  {
+    "h": 115,
+    "jibo": "満",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "ま",
+    "w": 136,
+    "x": 881,
+    "y": 424
+  },
+  {
+    "h": 150,
+    "jibo": "可",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 104,
+    "x": 911,
+    "y": 525
+  },
+  {
+    "h": 129,
+    "jibo": "不",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "ふ",
+    "w": 139,
+    "x": 885,
+    "y": 656
+  },
+  {
+    "h": 171,
+    "jibo": "沖",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "沖",
+    "w": 146,
+    "x": 729,
+    "y": 378
+  },
+  {
+    "h": 198,
+    "jibo": "川",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "つ",
+    "w": 115,
+    "x": 741,
+    "y": 555
+  },
+  {
+    "h": 107,
+    "jibo": "志",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 138,
+    "x": 578,
+    "y": 403
+  },
+  {
+    "h": 118,
+    "jibo": "良",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "ら",
+    "w": 67,
+    "x": 634,
+    "y": 491
+  },
+  {
+    "h": 112,
+    "jibo": "奈",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "な",
+    "w": 90,
+    "x": 576,
+    "y": 567
+  },
+  {
+    "h": 111,
+    "jibo": "三",
+    "poemIndex": 76,
+    "resourceId": "doors:176700497",
+    "text": "み",
+    "w": 82,
+    "x": 582,
+    "y": 673
+  },
+  {
+    "h": 154,
+    "jibo": "崇",
+    "poemIndex": 77,
+    "resourceId": "doors:176700497",
+    "text": "崇",
+    "w": 94,
+    "x": 2094,
+    "y": 378
+  },
+  {
+    "h": 128,
+    "jibo": "徳",
+    "poemIndex": 77,
+    "resourceId": "doors:176700497",
+    "text": "徳",
+    "w": 118,
+    "x": 2081,
+    "y": 536
+  },
+  {
+    "h": 139,
+    "jibo": "院",
+    "poemIndex": 77,
+    "resourceId": "doors:176700497",
+    "text": "院",
+    "w": 162,
+    "x": 2076,
+    "y": 668
+  },
+  {
     "h": 128,
     "jibo": "瀬",
     "poemIndex": 77,
@@ -30990,36 +34100,6 @@
     "y": 600
   },
   {
-    "h": 154,
-    "jibo": "崇",
-    "poemIndex": 77,
-    "resourceId": "doors:176700497",
-    "text": "崇",
-    "w": 94,
-    "x": 2094,
-    "y": 378
-  },
-  {
-    "h": 128,
-    "jibo": "徳",
-    "poemIndex": 77,
-    "resourceId": "doors:176700497",
-    "text": "徳",
-    "w": 118,
-    "x": 2081,
-    "y": 536
-  },
-  {
-    "h": 139,
-    "jibo": "院",
-    "poemIndex": 77,
-    "resourceId": "doors:176700497",
-    "text": "院",
-    "w": 162,
-    "x": 2076,
-    "y": 668
-  },
-  {
     "h": 65,
     "jibo": "三",
     "poemIndex": 77,
@@ -31030,24 +34110,14 @@
     "y": 674
   },
   {
-    "h": 71,
-    "jibo": "以",
+    "h": 138,
+    "jibo": "岩",
     "poemIndex": 77,
     "resourceId": "doors:176700497",
-    "text": "い",
-    "w": 84,
-    "x": 1822,
-    "y": 378
-  },
-  {
-    "h": 62,
-    "jibo": "八",
-    "poemIndex": 77,
-    "resourceId": "doors:176700497",
-    "text": "は",
-    "w": 97,
-    "x": 1822,
-    "y": 453
+    "text": "岩",
+    "w": 109,
+    "x": 1819,
+    "y": 380
   },
   {
     "h": 75,
@@ -31151,7 +34221,7 @@
   },
   {
     "h": 124,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 77,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -31251,7 +34321,7 @@
   },
   {
     "h": 89,
-    "jibo": "曾",
+    "jibo": "曽",
     "poemIndex": 77,
     "resourceId": "doors:176700497",
     "text": "そ",
@@ -31301,7 +34371,7 @@
   },
   {
     "h": 102,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 77,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -31401,7 +34471,7 @@
   },
   {
     "h": 93,
-    "jibo": "曾",
+    "jibo": "曽",
     "poemIndex": 77,
     "resourceId": "doors:176700497",
     "text": "そ",
@@ -31701,7 +34771,7 @@
   },
   {
     "h": 96,
-    "jibo": "漫",
+    "jibo": "満",
     "poemIndex": 78,
     "resourceId": "doors:176700497",
     "text": "ま",
@@ -31831,7 +34901,7 @@
   },
   {
     "h": 117,
-    "jibo": "漫",
+    "jibo": "満",
     "poemIndex": 78,
     "resourceId": "doors:176700497",
     "text": "ま",
@@ -32091,7 +35161,7 @@
   },
   {
     "h": 117,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 79,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -32221,7 +35291,7 @@
   },
   {
     "h": 127,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 79,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -32391,10 +35461,10 @@
   },
   {
     "h": 157,
-    "jibo": "川",
+    "jibo": "河",
     "poemIndex": 80,
     "resourceId": "doors:176700497",
-    "text": "川",
+    "text": "河",
     "w": 152,
     "x": 2061,
     "y": 806
@@ -32404,7 +35474,7 @@
     "jibo": "奈",
     "poemIndex": 80,
     "resourceId": "doors:176700497",
-    "text": "奈",
+    "text": "な",
     "w": 101,
     "x": 1961,
     "y": 312
@@ -32414,7 +35484,7 @@
     "jibo": "可",
     "poemIndex": 80,
     "resourceId": "doors:176700497",
-    "text": "可",
+    "text": "か",
     "w": 79,
     "x": 1971,
     "y": 450
@@ -32571,7 +35641,7 @@
   },
   {
     "h": 110,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 80,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -32681,7 +35751,7 @@
   },
   {
     "h": 80,
-    "jibo": "曾",
+    "jibo": "曽",
     "poemIndex": 80,
     "resourceId": "doors:176700497",
     "text": "そ",
@@ -32711,7 +35781,7 @@
   },
   {
     "h": 113,
-    "jibo": "禮",
+    "jibo": "礼",
     "poemIndex": 80,
     "resourceId": "doors:176700497",
     "text": "れ",
@@ -32791,7 +35861,7 @@
   },
   {
     "h": 70,
-    "jibo": "曾",
+    "jibo": "曽",
     "poemIndex": 80,
     "resourceId": "doors:176700497",
     "text": "そ",
@@ -32821,7 +35891,7 @@
   },
   {
     "h": 106,
-    "jibo": "阝",
+    "jibo": "部",
     "poemIndex": 80,
     "resourceId": "doors:176700497",
     "text": "へ",
@@ -33254,7 +36324,7 @@
     "jibo": "乃",
     "poemIndex": 81,
     "resourceId": "doors:176700497",
-    "text": "乃",
+    "text": "の",
     "w": 102,
     "x": 678,
     "y": 738
@@ -33371,10 +36441,10 @@
   },
   {
     "h": 74,
-    "jibo": "ひ",
+    "jibo": "飛",
     "poemIndex": 82,
     "resourceId": "doors:176700497",
-    "text": "飛",
+    "text": "ひ",
     "w": 83,
     "x": 1873,
     "y": 663
@@ -33824,7 +36894,7 @@
     "jibo": "世",
     "poemIndex": 83,
     "resourceId": "doors:176700497",
-    "text": "世",
+    "text": "世の",
     "w": 135,
     "x": 1927,
     "y": 336
@@ -34034,7 +37104,7 @@
     "jibo": "曽",
     "poemIndex": 83,
     "resourceId": "doors:176700497",
-    "text": "曽",
+    "text": "そ",
     "w": 100,
     "x": 1770,
     "y": 1113
@@ -34368,6 +37438,306 @@
     "w": 148,
     "x": 1733,
     "y": 797
+  },
+  {
+    "h": 122,
+    "jibo": "志",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 118,
+    "x": 1609,
+    "y": 353
+  },
+  {
+    "h": 79,
+    "jibo": "乃",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 105,
+    "x": 1612,
+    "y": 478
+  },
+  {
+    "h": 92,
+    "jibo": "者",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "は",
+    "w": 102,
+    "x": 1625,
+    "y": 562
+  },
+  {
+    "h": 131,
+    "jibo": "礼",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "れ",
+    "w": 128,
+    "x": 1599,
+    "y": 665
+  },
+  {
+    "h": 105,
+    "jibo": "无",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "ん",
+    "w": 131,
+    "x": 1599,
+    "y": 814
+  },
+  {
+    "h": 122,
+    "jibo": "宇",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "う",
+    "w": 89,
+    "x": 1962,
+    "y": 886
+  },
+  {
+    "h": 121,
+    "jibo": "之",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 76,
+    "x": 1952,
+    "y": 985
+  },
+  {
+    "h": 98,
+    "jibo": "止",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "と",
+    "w": 60,
+    "x": 1968,
+    "y": 1137
+  },
+  {
+    "h": 96,
+    "jibo": "三",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "み",
+    "w": 80,
+    "x": 1864,
+    "y": 948
+  },
+  {
+    "h": 111,
+    "jibo": "之",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 73,
+    "x": 1874,
+    "y": 1031
+  },
+  {
+    "h": 102,
+    "jibo": "与",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "よ",
+    "w": 89,
+    "x": 1832,
+    "y": 1110
+  },
+  {
+    "h": 105,
+    "jibo": "曽",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "そ",
+    "w": 76,
+    "x": 1845,
+    "y": 1218
+  },
+  {
+    "h": 105,
+    "jibo": "今",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "今",
+    "w": 96,
+    "x": 1729,
+    "y": 971
+  },
+  {
+    "h": 92,
+    "jibo": "八",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "は",
+    "w": 112,
+    "x": 1725,
+    "y": 1095
+  },
+  {
+    "h": 93,
+    "jibo": "己",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "こ",
+    "w": 67,
+    "x": 1619,
+    "y": 980
+  },
+  {
+    "h": 105,
+    "jibo": "比",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "ひ",
+    "w": 89,
+    "x": 1632,
+    "y": 1066
+  },
+  {
+    "h": 121,
+    "jibo": "之",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 60,
+    "x": 1651,
+    "y": 1154
+  },
+  {
+    "h": 144,
+    "jibo": "幾",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "き",
+    "w": 141,
+    "x": 1548,
+    "y": 1190
+  },
+  {
+    "h": 131,
+    "jibo": "宇",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "う",
+    "w": 99,
+    "x": 1007,
+    "y": 350
+  },
+  {
+    "h": 114,
+    "jibo": "之",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 89,
+    "x": 1001,
+    "y": 465
+  },
+  {
+    "h": 95,
+    "jibo": "止",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "と",
+    "w": 105,
+    "x": 995,
+    "y": 594
+  },
+  {
+    "h": 157,
+    "jibo": "見",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "見",
+    "w": 118,
+    "x": 849,
+    "y": 366
+  },
+  {
+    "h": 127,
+    "jibo": "之",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 54,
+    "x": 910,
+    "y": 533
+  },
+  {
+    "h": 109,
+    "jibo": "与",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "よ",
+    "w": 83,
+    "x": 817,
+    "y": 576
+  },
+  {
+    "h": 85,
+    "jibo": "曽",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "そ",
+    "w": 93,
+    "x": 807,
+    "y": 698
+  },
+  {
+    "h": 125,
+    "jibo": "今",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "今",
+    "w": 138,
+    "x": 639,
+    "y": 382
+  },
+  {
+    "h": 79,
+    "jibo": "八",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "は",
+    "w": 112,
+    "x": 658,
+    "y": 517
+  },
+  {
+    "h": 157,
+    "jibo": "恋",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "恋",
+    "w": 151,
+    "x": 529,
+    "y": 515
+  },
+  {
+    "h": 85,
+    "jibo": "之",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "し",
+    "w": 93,
+    "x": 594,
+    "y": 685
+  },
+  {
+    "h": 124,
+    "jibo": "幾",
+    "poemIndex": 84,
+    "resourceId": "doors:176700497",
+    "text": "き",
+    "w": 112,
+    "x": 539,
+    "y": 798
   },
   {
     "h": 135,
@@ -35440,26 +38810,6 @@
     "y": 558
   },
   {
-    "h": 57,
-    "jibo": "末",
-    "poemIndex": 87,
-    "resourceId": "doors:176700497",
-    "text": "ま",
-    "w": 78,
-    "x": 1727,
-    "y": 457
-  },
-  {
-    "h": 127,
-    "jibo": "多",
-    "poemIndex": 87,
-    "resourceId": "doors:176700497",
-    "text": "た",
-    "w": 81,
-    "x": 1733,
-    "y": 541
-  },
-  {
     "h": 107,
     "jibo": "飛",
     "poemIndex": 87,
@@ -35584,7 +38934,7 @@
     "jibo": "本",
     "poemIndex": 87,
     "resourceId": "doors:176700497",
-    "text": "ほ",
+    "text": "は",
     "w": 113,
     "x": 1814,
     "y": 1047
@@ -35758,6 +39108,16 @@
     "w": 133,
     "x": 539,
     "y": 578
+  },
+  {
+    "h": 174,
+    "jibo": "末",
+    "poemIndex": 87,
+    "resourceId": "doors:176700497",
+    "text": "また",
+    "w": 92,
+    "x": 1718,
+    "y": 464
   },
   {
     "h": 136,
@@ -36131,7 +39491,7 @@
   },
   {
     "h": 117,
-    "jibo": "遠",
+    "jibo": "越",
     "poemIndex": 88,
     "resourceId": "doors:176700497",
     "text": "を",
@@ -36464,7 +39824,7 @@
     "jibo": "志",
     "poemIndex": 89,
     "resourceId": "doors:176700497",
-    "text": "志",
+    "text": "し",
     "w": 113,
     "x": 1878,
     "y": 884
@@ -37324,7 +40684,7 @@
     "jibo": "ゝ",
     "poemIndex": 91,
     "resourceId": "doors:176700497",
-    "text": "き",
+    "text": "り",
     "w": 64,
     "x": 1989,
     "y": 623
@@ -39870,6 +43230,186 @@
     "y": 343
   },
   {
+    "h": 135,
+    "jibo": "利",
+    "poemIndex": 96,
+    "resourceId": "doors:176700497",
+    "text": "り",
+    "w": 80,
+    "x": 1040,
+    "y": 450
+  },
+  {
+    "h": 86,
+    "jibo": "王",
+    "poemIndex": 96,
+    "resourceId": "doors:176700497",
+    "text": "わ",
+    "w": 67,
+    "x": 681,
+    "y": 343
+  },
+  {
+    "h": 89,
+    "jibo": "由",
+    "poemIndex": 96,
+    "resourceId": "doors:176700497",
+    "text": "ゆ",
+    "w": 96,
+    "x": 914,
+    "y": 443
+  },
+  {
+    "h": 128,
+    "jibo": "久",
+    "poemIndex": 96,
+    "resourceId": "doors:176700497",
+    "text": "く",
+    "w": 76,
+    "x": 923,
+    "y": 524
+  },
+  {
+    "h": 107,
+    "jibo": "毛",
+    "poemIndex": 96,
+    "resourceId": "doors:176700497",
+    "text": "も",
+    "w": 75,
+    "x": 810,
+    "y": 406
+  },
+  {
+    "h": 88,
+    "jibo": "乃",
+    "poemIndex": 96,
+    "resourceId": "doors:176700497",
+    "text": "の",
+    "w": 96,
+    "x": 791,
+    "y": 515
+  },
+  {
+    "h": 59,
+    "jibo": "八",
+    "poemIndex": 96,
+    "resourceId": "doors:176700497",
+    "text": "は",
+    "w": 89,
+    "x": 801,
+    "y": 614
+  },
+  {
+    "h": 56,
+    "jibo": "可",
+    "poemIndex": 96,
+    "resourceId": "doors:176700497",
+    "text": "か",
+    "w": 43,
+    "x": 697,
+    "y": 428
+  },
+  {
+    "h": 138,
+    "jibo": "身",
+    "poemIndex": 96,
+    "resourceId": "doors:176700497",
+    "text": "身",
+    "w": 83,
+    "x": 665,
+    "y": 492
+  },
+  {
+    "h": 96,
+    "jibo": "奈",
+    "poemIndex": 96,
+    "resourceId": "doors:176700497",
+    "text": "な",
+    "w": 60,
+    "x": 548,
+    "y": 350
+  },
+  {
+    "h": 167,
+    "jibo": "利",
+    "poemIndex": 96,
+    "resourceId": "doors:176700497",
+    "text": "り",
+    "w": 51,
+    "x": 577,
+    "y": 424
+  },
+  {
+    "h": 112,
+    "jibo": "介",
+    "poemIndex": 96,
+    "resourceId": "doors:176700497",
+    "text": "け",
+    "w": 57,
+    "x": 522,
+    "y": 511
+  },
+  {
+    "h": 112,
+    "jibo": "里",
+    "poemIndex": 96,
+    "resourceId": "doors:176700497",
+    "text": "り",
+    "w": 70,
+    "x": 532,
+    "y": 579
+  },
+  {
+    "h": 131,
+    "jibo": "中",
+    "poemIndex": 97,
+    "resourceId": "doors:176700497",
+    "text": "中",
+    "w": 91,
+    "x": 2079,
+    "y": 436
+  },
+  {
+    "h": 107,
+    "jibo": "納",
+    "poemIndex": 97,
+    "resourceId": "doors:176700497",
+    "text": "納",
+    "w": 101,
+    "x": 2088,
+    "y": 572
+  },
+  {
+    "h": 82,
+    "jibo": "言",
+    "poemIndex": 97,
+    "resourceId": "doors:176700497",
+    "text": "言",
+    "w": 70,
+    "x": 2098,
+    "y": 684
+  },
+  {
+    "h": 124,
+    "jibo": "定",
+    "poemIndex": 97,
+    "resourceId": "doors:176700497",
+    "text": "定",
+    "w": 115,
+    "x": 2089,
+    "y": 772
+  },
+  {
+    "h": 119,
+    "jibo": "家",
+    "poemIndex": 97,
+    "resourceId": "doors:176700497",
+    "text": "家",
+    "w": 87,
+    "x": 2095,
+    "y": 909
+  },
+  {
     "h": 85,
     "jibo": "己",
     "poemIndex": 97,
@@ -40300,54 +43840,54 @@
     "y": 756
   },
   {
-    "h": 131,
-    "jibo": "中",
-    "poemIndex": 97,
+    "h": 100,
+    "jibo": "正",
+    "poemIndex": 98,
     "resourceId": "doors:176700497",
-    "text": "中",
-    "w": 91,
-    "x": 2079,
-    "y": 436
+    "text": "正",
+    "w": 114,
+    "x": 2080,
+    "y": 407
   },
   {
-    "h": 107,
-    "jibo": "納",
-    "poemIndex": 97,
+    "h": 71,
+    "jibo": "三",
+    "poemIndex": 98,
     "resourceId": "doors:176700497",
-    "text": "納",
-    "w": 101,
-    "x": 2088,
-    "y": 572
+    "text": "三",
+    "w": 96,
+    "x": 2085,
+    "y": 515
   },
   {
-    "h": 82,
-    "jibo": "言",
-    "poemIndex": 97,
+    "h": 126,
+    "jibo": "位",
+    "poemIndex": 98,
     "resourceId": "doors:176700497",
-    "text": "言",
-    "w": 70,
-    "x": 2098,
-    "y": 684
+    "text": "位",
+    "w": 125,
+    "x": 2073,
+    "y": 586
   },
   {
-    "h": 124,
-    "jibo": "定",
-    "poemIndex": 97,
-    "resourceId": "doors:176700497",
-    "text": "定",
-    "w": 115,
-    "x": 2089,
-    "y": 772
-  },
-  {
-    "h": 119,
+    "h": 134,
     "jibo": "家",
-    "poemIndex": 97,
+    "poemIndex": 98,
     "resourceId": "doors:176700497",
     "text": "家",
-    "w": 87,
-    "x": 2095,
-    "y": 909
+    "w": 113,
+    "x": 2082,
+    "y": 718
+  },
+  {
+    "h": 132,
+    "jibo": "隆",
+    "poemIndex": 98,
+    "resourceId": "doors:176700497",
+    "text": "隆",
+    "w": 101,
+    "x": 2082,
+    "y": 853
   },
   {
     "h": 162,
@@ -40760,54 +44300,44 @@
     "y": 707
   },
   {
-    "h": 100,
-    "jibo": "正",
-    "poemIndex": 98,
+    "h": 141,
+    "jibo": "後",
+    "poemIndex": 99,
     "resourceId": "doors:176700497",
-    "text": "正",
-    "w": 114,
-    "x": 2080,
-    "y": 407
+    "text": "後",
+    "w": 86,
+    "x": 2084,
+    "y": 403
   },
   {
-    "h": 71,
-    "jibo": "三",
-    "poemIndex": 98,
+    "h": 121,
+    "jibo": "鳥",
+    "poemIndex": 99,
     "resourceId": "doors:176700497",
-    "text": "三",
-    "w": 96,
-    "x": 2085,
-    "y": 515
+    "text": "鳥",
+    "w": 107,
+    "x": 2083,
+    "y": 531
   },
   {
-    "h": 126,
-    "jibo": "位",
-    "poemIndex": 98,
+    "h": 81,
+    "jibo": "羽",
+    "poemIndex": 99,
     "resourceId": "doors:176700497",
-    "text": "位",
-    "w": 125,
-    "x": 2073,
-    "y": 586
+    "text": "羽",
+    "w": 95,
+    "x": 2077,
+    "y": 652
   },
   {
-    "h": 134,
-    "jibo": "家",
-    "poemIndex": 98,
+    "h": 114,
+    "jibo": "院",
+    "poemIndex": 99,
     "resourceId": "doors:176700497",
-    "text": "家",
+    "text": "院",
     "w": 113,
-    "x": 2082,
-    "y": 718
-  },
-  {
-    "h": 132,
-    "jibo": "隆",
-    "poemIndex": 98,
-    "resourceId": "doors:176700497",
-    "text": "隆",
-    "w": 101,
-    "x": 2082,
-    "y": 853
+    "x": 2084,
+    "y": 743
   },
   {
     "h": 153,
@@ -41220,44 +44750,34 @@
     "y": 846
   },
   {
-    "h": 141,
-    "jibo": "後",
-    "poemIndex": 99,
+    "h": 118,
+    "jibo": "順",
+    "poemIndex": 100,
     "resourceId": "doors:176700497",
-    "text": "後",
-    "w": 86,
-    "x": 2084,
-    "y": 403
+    "text": "順",
+    "w": 110,
+    "x": 2091,
+    "y": 469
   },
   {
-    "h": 121,
-    "jibo": "鳥",
-    "poemIndex": 99,
+    "h": 133,
+    "jibo": "徳",
+    "poemIndex": 100,
     "resourceId": "doors:176700497",
-    "text": "鳥",
-    "w": 107,
-    "x": 2083,
-    "y": 531
+    "text": "徳",
+    "w": 114,
+    "x": 2088,
+    "y": 599
   },
   {
-    "h": 81,
-    "jibo": "羽",
-    "poemIndex": 99,
-    "resourceId": "doors:176700497",
-    "text": "羽",
-    "w": 95,
-    "x": 2077,
-    "y": 652
-  },
-  {
-    "h": 114,
+    "h": 122,
     "jibo": "院",
-    "poemIndex": 99,
+    "poemIndex": 100,
     "resourceId": "doors:176700497",
     "text": "院",
-    "w": 113,
-    "x": 2084,
-    "y": 743
+    "w": 125,
+    "x": 2082,
+    "y": 736
   },
   {
     "h": 117,
@@ -41404,7 +44924,7 @@
     "jibo": "毛",
     "poemIndex": 100,
     "resourceId": "doors:176700497",
-    "text": "け",
+    "text": "も",
     "w": 67,
     "x": 1587,
     "y": 661
@@ -41688,35 +45208,5 @@
     "w": 44,
     "x": 554,
     "y": 845
-  },
-  {
-    "h": 118,
-    "jibo": "順",
-    "poemIndex": 100,
-    "resourceId": "doors:176700497",
-    "text": "順",
-    "w": 110,
-    "x": 2091,
-    "y": 469
-  },
-  {
-    "h": 133,
-    "jibo": "徳",
-    "poemIndex": 100,
-    "resourceId": "doors:176700497",
-    "text": "徳",
-    "w": 114,
-    "x": 2088,
-    "y": 599
-  },
-  {
-    "h": 122,
-    "jibo": "院",
-    "poemIndex": 100,
-    "resourceId": "doors:176700497",
-    "text": "院",
-    "w": 125,
-    "x": 2082,
-    "y": 736
   }
 ]
