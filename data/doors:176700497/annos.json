@@ -11978,24 +11978,14 @@
     "y": 566
   },
   {
-    "h": 109,
-    "jibo": "不",
+    "h": 205,
+    "jibo": "冬",
     "poemIndex": 28,
     "resourceId": "doors:176700497",
-    "text": "ふ",
-    "w": 90,
+    "text": "冬",
+    "w": 99,
     "x": 1867,
     "y": 456
-  },
-  {
-    "h": 72,
-    "jibo": "由",
-    "poemIndex": 28,
-    "resourceId": "doors:176700497",
-    "text": "ゆ",
-    "w": 75,
-    "x": 1893,
-    "y": 572
   },
   {
     "h": 89,
@@ -13530,7 +13520,7 @@
   },
   {
     "h": 104,
-    "jibo": "布",
+    "jibo": "不",
     "poemIndex": 31,
     "resourceId": "doors:176700497",
     "text": "ふ",
@@ -13661,7 +13651,7 @@
   },
   {
     "h": 100,
-    "jibo": "布",
+    "jibo": "不",
     "poemIndex": 31,
     "resourceId": "doors:176700497",
     "text": "ふ",
