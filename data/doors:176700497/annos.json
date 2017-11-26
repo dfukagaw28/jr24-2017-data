@@ -3037,126 +3037,6 @@
     "y": 777
   },
   {
-    "h": 97,
-    "jibo": "世",
-    "poemIndex": 8,
-    "resourceId": "doors:176700497",
-    "text": "よ",
-    "w": 136,
-    "x": 953,
-    "y": 337
-  },
-  {
-    "h": 109,
-    "jibo": "越",
-    "poemIndex": 8,
-    "resourceId": "doors:176700497",
-    "text": "を",
-    "w": 116,
-    "x": 962,
-    "y": 439
-  },
-  {
-    "h": 118,
-    "jibo": "宇",
-    "poemIndex": 8,
-    "resourceId": "doors:176700497",
-    "text": "う",
-    "w": 77,
-    "x": 846,
-    "y": 396
-  },
-  {
-    "h": 107,
-    "jibo": "知",
-    "poemIndex": 8,
-    "resourceId": "doors:176700497",
-    "text": "ち",
-    "w": 59,
-    "x": 862,
-    "y": 509
-  },
-  {
-    "h": 75,
-    "jibo": "山",
-    "poemIndex": 8,
-    "resourceId": "doors:176700497",
-    "text": "山",
-    "w": 91,
-    "x": 785,
-    "y": 600
-  },
-  {
-    "h": 80,
-    "jibo": "止",
-    "poemIndex": 8,
-    "resourceId": "doors:176700497",
-    "text": "と",
-    "w": 62,
-    "x": 812,
-    "y": 680
-  },
-  {
-    "h": 150,
-    "jibo": "人",
-    "poemIndex": 8,
-    "resourceId": "doors:176700497",
-    "text": "人",
-    "w": 141,
-    "x": 637,
-    "y": 366
-  },
-  {
-    "h": 64,
-    "jibo": "八",
-    "poemIndex": 8,
-    "resourceId": "doors:176700497",
-    "text": "は",
-    "w": 105,
-    "x": 641,
-    "y": 516
-  },
-  {
-    "h": 64,
-    "jibo": "以",
-    "poemIndex": 8,
-    "resourceId": "doors:176700497",
-    "text": "い",
-    "w": 116,
-    "x": 500,
-    "y": 498
-  },
-  {
-    "h": 112,
-    "jibo": "不",
-    "poemIndex": 8,
-    "resourceId": "doors:176700497",
-    "text": "ふ",
-    "w": 121,
-    "x": 512,
-    "y": 557
-  },
-  {
-    "h": 114,
-    "jibo": "奈",
-    "poemIndex": 8,
-    "resourceId": "doors:176700497",
-    "text": "な",
-    "w": 84,
-    "x": 548,
-    "y": 673
-  },
-  {
-    "h": 130,
-    "jibo": "利",
-    "poemIndex": 8,
-    "resourceId": "doors:176700497",
-    "text": "り",
-    "w": 80,
-    "x": 557,
-    "y": 773
-  },
-  {
     "h": 113,
     "jibo": "与",
     "poemIndex": 8,
@@ -3275,6 +3155,126 @@
     "w": 87,
     "x": 1603,
     "y": 1223
+  },
+  {
+    "h": 97,
+    "jibo": "世",
+    "poemIndex": 8,
+    "resourceId": "doors:176700497",
+    "text": "よ",
+    "w": 136,
+    "x": 953,
+    "y": 337
+  },
+  {
+    "h": 109,
+    "jibo": "越",
+    "poemIndex": 8,
+    "resourceId": "doors:176700497",
+    "text": "を",
+    "w": 116,
+    "x": 962,
+    "y": 439
+  },
+  {
+    "h": 118,
+    "jibo": "宇",
+    "poemIndex": 8,
+    "resourceId": "doors:176700497",
+    "text": "う",
+    "w": 77,
+    "x": 846,
+    "y": 396
+  },
+  {
+    "h": 107,
+    "jibo": "知",
+    "poemIndex": 8,
+    "resourceId": "doors:176700497",
+    "text": "ち",
+    "w": 59,
+    "x": 862,
+    "y": 509
+  },
+  {
+    "h": 75,
+    "jibo": "山",
+    "poemIndex": 8,
+    "resourceId": "doors:176700497",
+    "text": "山",
+    "w": 91,
+    "x": 785,
+    "y": 600
+  },
+  {
+    "h": 80,
+    "jibo": "止",
+    "poemIndex": 8,
+    "resourceId": "doors:176700497",
+    "text": "と",
+    "w": 62,
+    "x": 812,
+    "y": 680
+  },
+  {
+    "h": 150,
+    "jibo": "人",
+    "poemIndex": 8,
+    "resourceId": "doors:176700497",
+    "text": "人",
+    "w": 141,
+    "x": 637,
+    "y": 366
+  },
+  {
+    "h": 64,
+    "jibo": "八",
+    "poemIndex": 8,
+    "resourceId": "doors:176700497",
+    "text": "は",
+    "w": 105,
+    "x": 641,
+    "y": 516
+  },
+  {
+    "h": 64,
+    "jibo": "以",
+    "poemIndex": 8,
+    "resourceId": "doors:176700497",
+    "text": "い",
+    "w": 116,
+    "x": 500,
+    "y": 498
+  },
+  {
+    "h": 112,
+    "jibo": "不",
+    "poemIndex": 8,
+    "resourceId": "doors:176700497",
+    "text": "ふ",
+    "w": 121,
+    "x": 512,
+    "y": 557
+  },
+  {
+    "h": 114,
+    "jibo": "奈",
+    "poemIndex": 8,
+    "resourceId": "doors:176700497",
+    "text": "な",
+    "w": 84,
+    "x": 548,
+    "y": 673
+  },
+  {
+    "h": 130,
+    "jibo": "利",
+    "poemIndex": 8,
+    "resourceId": "doors:176700497",
+    "text": "り",
+    "w": 80,
+    "x": 557,
+    "y": 773
   },
   {
     "h": 83,
